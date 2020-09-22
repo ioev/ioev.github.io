@@ -1,0 +1,143 @@
+From: tsrken@voicenet.com ('tsr')
+
+(note: Yes I know the manual is full of mistakes and non sequitors, and 
+yes I know that it confuses the functions of the A and B buttons. This is 
+a verbatim copy of the manual, and yes, it _was_ this bad. -tsr)
+
+NES-CM-USA
+
+Bionic Commando(tm)
+
+Instruction Manual
+
+-----
+
+A Special Message From Captain Commando!
+
+Thank you for selecting fun-filled Bionic Commando(tm)...one of the exclusive 
+Nintendo Entertainment System video games from the Captain Commando 
+"Challenge Series".
+
+Bionic Commando(tm), created by CAPCOM(c)...premier world-wide arcade game 
+designer... features colorful state-of-the-art high resolution graphics.
+
+This high quality game pack is Licensed by Nintendo(r) for Play on the 
+Nintendo Entertainment System (r)
+
+-----
+
+I'll talk about a person which I've met when I was young.
+
+In 198X we've found Nazz's top secret material called Abatros, a plan which 
+never was put to practice.
+
+Imperial forces Generalissimo Killt had never seen this plan, and decided to 
+materialize this plan.
+
+The federation decided to stop his attempt by sending our hero Super Joe, but 
+lost contact with him.
+
+Our brave man (you the player) was sent to the empire with a special mission 
+to rescue Super Joe, this story begins from here...
+
+-----
+
+Names of controller parts and operating instructions
+
+Controller #1 - Moves Player 1.
+Button A: Shoots Guns.        
+Button B: To extend Bionic Arm.
+
+1. Normal Gun, Wide Gun, Rocket Fun, 3-Way Fun, Machine Gun, Hyper Bazooka 
+are used by Button B.
+2. Flare Bomb, Medicine are used by Start Button.
+3. Items like 1 Up, POW, Medicine which come down on parachutes can be used 
+by catching them.
+
+-----
+
+Use map in subscreen to proceed with your game.
+Player starts from area 0 and transfer along the route.
+Each numbered squares are the areas and as soon as your player reaches, 
+screen will change to battle scene.
+Helicopter will transfer your player to the destination area.
+
+When your player helicopter starts to transfer, enemy vehicles will start to 
+move also.
+When you reach destination without being confronted by enemy vehicle, you 
+have a choice of either to play that area (descend) or still transfer to 
+other area.
+
+-----
+
+Weapon selection
+
+Item selection can be done using your controller cursor.
+Move flashing squares to item you want, then press "A" twice to start, you 
+can cancel it.
+
+When player decides to "descend", weapons selections scene will appear.
+You may take weapon, protector, special weapon, and communicatiors and you 
+may select one each.
+You can obtain more items while you play and stock them as you go and you'll 
+have more to choose from.
+
+Earned weapons
+
+Normal Gun - You have it to start with
+Wide Gun - You can shoot at wide range but reach is shoot
+Rocket Gun - It penetrates and destroys enemies, you can shoot continuously
+3-Way Gun - You can shoot in 3 ways It can break the shield
+Joe's Machinegun - Range - 22.5 degrees
+Hyper Bazooka - Federal Army's new weapon. It can go through the cockpit of 
+choppers
+Flare Bomb - Use in the cave, use with start button
+
+Player - Shoot in 8 directions, wave wires
+
+Bonus Characters
+
+Medicine - Recovers player's energy up to max. Use with start button
+Iron Boots - Kick and kill enemies
+Permit - Needed to enter certain neutral areas
+Magazine System - You can combine with Normal Gun and make a Machine Gun
+Helmet - Will protect you from enemies' bullets 3 times
+Charm - Repulse one bullet
+Bulletproof Vest - Repulse one out of two bullets
+1 Up - Add one player
+POW - Energy ball will appear and go around the player to protect him for 7s.
+Communicator - There are a, b, c, d communicators, You can communicate with 
+compatible ones
+Bullet - Appears when you defeat enemies
+
+Enemy Characters
+
+Knife Wielding Soldier
+Soldiers - Run towards the Player and shoot
+Suicide Bomber - Throw bombs at Player from a certain distance
+Jeep - Move sideways and shoots downwards
+Bearded Soldier
+Giant Soldier (Boss)
+Barrier Soldier
+Double Deck Cannon
+Laser Cannon
+Helicopter
+Wired Gunner (Boss)
+Construction Soldier
+Generalissimo
+Dwarf
+Wired Soldier
+Crane Caterpillar
+Normal Soldier
+Bazooka
+Pod
+Remote Control Soldier
+Heavy Object Throwing Soldier
+Cannon Mobile
+Commander
+
+-----
+
+*Instruction Manual by Paul Biederman
+*Game counsellors available 8am to 5pm PST at (408) 745-7081
+

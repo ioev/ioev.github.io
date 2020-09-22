@@ -1,0 +1,2746 @@
+			FINAL FANTASY IIIj
+			------------------
+			FAMICOM       1990
+			------------------
+			FAQ  & Walkthrough
+
+			Created by KuZap 
+			rkni@islandnet.com
+---------------------------------------------------------------------------
+Version 2.0       May 1997        Created with DOS Edit (Normal Resolution)
+---------------------------------------------------------------------------
+
+Table of Contents
+
+1: About FF3j
+		1.1: What is FF3j?
+		1.2: What Final Fantasy is 3j most like?
+		1.3: What platform/Where can I get FF3j?
+		1.4: Questions about Emulators
+		1.5: What is this 'Translated' Version I hear about?
+	       
+2: Inside FF3j                
+		2.1:  What Classes are Available?
+		2.2:  What Magic can be found/bought in FF3j?
+		2.3:  What Items can be found/bought in FF3j?
+		2.4:  What Special (Plot) items can be found in FF3j?
+		2.5:  What Weapons can be found/bought in FF3j?
+		2.6:  What Armor can be found/bought in FF3j?
+		2.7:  What are the Bosses in the game?
+		2.8:  What are the Various Races in Final Fantasy?
+		2.9:  What are the Companions that Travel with you?
+		2.10: How is Travel Accomplished?
+		2.11: General FF Strategy Tips
+		2.12: What the hell is a Fat Chocobo?
+		2.13: How do I play the game?
+		2.14: Questions from those who do not speak Japanese
+		2.15: Comparisons and oddities
+
+3: About the FF3j FAQ
+		3.1: Whats with some of the weird names?
+		3.2: How can I help?
+		3.3: Thanks to...
+		3.4: FAQ updates
+		3.5: Author Information
+
+4. Walkthrough
+		4.01: Altar Cave
+		4.02: Ul Town
+		4.03: Kazus Town
+		4.04: Desert Area
+		4.05: Sasun Castle
+		4.06: Cave of the Seal
+		4.07: Sasun Castle (Revived)
+		4.08: Kazus Town (Revived)
+		4.09: The Big Rock
+		4.10: Canaan Village
+		4.11: Bahamut's Nest
+		4.12: Forest of Recovery
+		4.13: The Town of the Midgets: Tozas 
+		4.14: The Road out of Tozas
+		4.15: Viking Base
+		4.16: Nepto Shrine
+		4.17: Viking Base (Revisited)
+		4.18: Tokkle Village
+		4.19: Village of the Ancients
+		4.20: Living Forest
+		4.21: Gurgan Tribe's Canyon
+		4.22: Argas Castle
+		4.23: Owen Tower
+		4.24: Gisairu Town
+		4.25: Dwarf Cave
+		4.26: Fire Cave
+		4.27: Dwarf Cave (Revisited)
+		4.28: Tokkle Village (Revisited)
+		4.29: Hyn Castle
+		4.30: Living Forest
+		4.31: Argas Castle (Revived)
+		4.32: Canaan Town (Revisited)
+		4.33: Fly off!
+		4.34: Tozas Town (Revisited)
+		4.35: Solitary Island
+		4.36: Water Temple
+		4.37: Water Cave
+		4.38: Amur & Sewers
+		4.39: Goldor's Mansion
+		4.40: Dastar
+		4.41: Leprit 
+		4.42: Kingdom of Salonia
+		4.43: Castle Salonia
+		4.44: Une's Shrine
+		4.45: Dorga's House
+		4.46: Mahoujinn Cave
+		4.47: Salonia Basement
+		4.48: The Time Temple
+		4.49: Dorga's Village
+		4.50: Undersea Cave
+		4.51: Une's Shrine
+		4.52: Swamp Cave [Excavation site]
+		4.53: Town of the Paladins
+		4.54: Cave of the Leviathan
+		4.55: Cave of the Bahamut
+		4.56: Cave of the Ordeals
+		4.57: Statues of the Quest
+		4.58: Crystal Tower & The Light Complex
+		4.59: Dorga's House (Revisited)
+		4.60: The Secret of Eureka
+		4.61: Crystal Tower
+		4.62: Final Maze
+		4.63: The Cloud of Darkness
+		4.64: Finale [Ending Spoiler! YOU HAVE BEEN WARNED!]
+
+----------------------------------------------------------------------------
+1.1     What is FF3j?
+----------------------------------------------------------------------------
+
+Final Fantasy IIIj is the japanese Final Fantasy III, released for the
+Famicom (known as NES in North America).  The j differentiates the name
+from Final Fantasy III, a North American SNES game.  This chart describes
+the differences:
+
+Key:    NES: Nintendo Entertainment System
+	SNES: Super Nintendo Entertainment System
+	FAM: Nintendo Famicom (Japanese NES)
+	SFAM: Super Famicom   (Japanese SNES)
+	PSX: Sony Playstation
+
+North America           Japan
+---------------------------------------------
+Final Fantasy 1 (NES)   Final Fantasy 1 (FAM)
+*Not released           Final Fantasy 2 (FAM)                
+*Not released           Final Fantasy 3 (FAM)
+Final Fantasy 2 (SNES)  Final Fantasy 4~(SFAM)
+*Not released           Final Fantasy 5 (SFAM)
+Final Fantasy 3 (SNES)  Final Fantasy 6 (SFAM)
+Final Fantasy 7 (PSX)   Final Fantasy 7 (PSX)
+
+(Note: Titles designated with an asterisk (*) are planned for a north
+       american release by Square, but nothing decisive has been 
+       confirmed.  The tilde (~) on FF4 designates that it is   
+       substantially different from the North American Version. See
+       the Final Fantasy IV faq for more information.)  
+       
+----------------------------------------------------------------------------
+1.2     What Final Fantasy is 3j most like?
+----------------------------------------------------------------------------
+Final Fantasy 3j is most like Final Fantasy I and V. Characters are named,
+classes are chosen, etc.  However, it is also the start of many Square
+trademarks.
+
+-Moogles make their first appearance; relatively untouched compared
+ to their FFV/VI followers.
+
+-Chocobo's are available in two types: White (for movement) 
+ and Fat (for storage). 
+
+-The Debut of several mainstay classes like Dragoon's and Caller's. 
+ (Note: Richard of FFIIj was a Dragoon, but nothing differentiated 
+ him from any of the other non-Dragoon characters.)
+	
+----------------------------------------------------------------------------        
+1.3     What/Where can I get FF3j?
+----------------------------------------------------------------------------
+Final Fantasy 3j (FF3j) was originally made for the famicom.  However,
+due to the extreme age of this title, it has become extremely rare.  
+
+Recently, several new platforms have popped up for playing this title. 
+Supposedly, Square plans to release it on the Sony Playstation. Also,
+it is available for NES emulators, although the legality of such things
+are null...zero...nada.  If you recognize these legal issues, but still 
+wish to take it on, several internet sites carry both the full japanese 
+version and a partially translated version for those who are not 
+japanese-literate.
+
+----------------------------------------------------------------------------
+1.4     What Emulators?
+----------------------------------------------------------------------------
+Emulators are computer programs that are programmed to 'behave' like
+your video game system (in this case).  By using quasi-legal rom
+dumping hardware to put the .rom file on a computer, it becomes
+possible for the emulators to play games.  Legal or not, there
+are sites on the internet that carry these games.  
+With this in mind, I nor any other FAQ I know of
+will let you know the location of these sites.  Find it yourself!
+
+			
+----------------------------------------------------------------------------
+1.5     What is this "Translated" FFIIIj I hear about?
+----------------------------------------------------------------------------
+
+	A group of people on the internet (who shall remain nameless
+	unless they ask otherwise) have managed to alter a copy
+	of the FFIIIj rom.  The alteration they have performed has in
+	fact translated a great deal of the game.
+
+	Translated:     Class Names
+			Stat Screen words
+			Weapon Names (89%)
+			Armor Names  (80%)
+			Item Names   (99%)
+			Magic Names  (87%)
+			Text         (2%)
+
+	Why is the whole game not translated?  
+	
+	In many ways,
+	the english language is much bigger than the japanese
+	language.  While it may take 4 letters for the word 
+	"Boom", the same word can be usually be accomplished
+	with one japanese symbol.  One symbol is worth the same
+	in terms of file space as one letter of the english 
+	alphabet, so a lot more space is usually needed for 
+	translations.
+	
+       -But I surely have enough hard drive space.  Why can't
+	it all fit?
+	
+	ROM's have a special
+	code inbedded in them so the ROM can check its file size
+	when in use.  If the file size is wrong, the ROM realizes
+	it is damaged and will not work.  While this is fine for
+	cartridges, its a problem for emulators that cannot yet
+	be avoided.   
+
+----------------------------------------------------------------------------
+2.1     What are the classes (jobs) available in FF3j?
+----------------------------------------------------------------------------
+Weapon Type:Type of equippable weapon
+Armor Rank: Weak (cant equip much) Medium (so so) and Strong (lots)
+Commands:   Available battle commands  
+Strengths:  Level up and stat strong points
+Special:    Special ability
+Use:        Recommended use
+  
+  
+  Onion Kid
+-------------
+Weapon Type: Sword/Knife
+Armor Rank:  Weak
+Commands:    Fight/Parry/Run/Item
+Strengths:   none
+Special:     They can equip crystal armor.
+Use:         Upgrade ASAP.  These guys suck like no other!
+
+   Fighter
+-------------
+Weapon Type: Sword
+Armor Rank:  Strong
+Commands:    Fight/Parry/Run/Item
+Strengths:   Attack Power/Defense/HP
+Special:     None
+Use:         Forget about shields and put a sword in
+	     each hand.  Battles are much easier that
+	     way.
+
+   Knight
+-------------
+Weapon Type: Sword
+Armor Rank:  Strong
+Commands:    Fight/Parry/Run/Item
+Strengths:   Attack Power/Defense/HP
+Special:     Guard -protects other party members when they are weak
+Use:         Dual Swords make for a happier soldier. Also take note
+	     that only the Knight can hold the legendary "Excalibur".
+
+   Paladin (Mystic Knight)
+-------------
+Weapon Type: Katana/Boomerang
+Armor Rank:  Strong
+Commands:    Fight/Magic/Parry/Item
+Strengths:   Attack/Magic/HP
+Special:     Lv. 1-3 White Magic
+Use:         Double up the Katana's...They will not duplicate
+	     later enemies. Boomerangs are also effective.
+
+ Monk
+-------------
+Weapon Type: Fists/Nunchucks
+Armor Rank:  Weak
+Commands:    Fight/Parry/Run/Item
+Strengths:   Attack/HP
+Special:     Fists results in up to 50x hits as skill increases.
+Use:         Nunchucks only decrease attack power. Use Fists.
+
+Karate Master
+-------------
+Weapon Type: Fists/Nunchucks/Claws
+Armor Rank:  Weak
+Commands:    Fight/Keep/Parry/Item
+Strengths:   Attack/HP
+Special:     Keep:  Master saves up attack energy for one round.
+		   While saving, defense is 0, but when attack
+		   unleashed, 2x attack power is given.  This
+		   technique can be used twice in a row; 
+		   subsequent charges in a row will blow the
+		   energy up in your face for a loss of about
+		   1/2 your HP.
+Use:         Double up the Claws!  Keep him in the back row
+	     if he cant kill very easily.  If your level is high
+	     enough however, remember that fists might 
+	     be more effective.
+
+    Thief
+-------------
+Weapon Type: Knives
+Armor Rank:  Weak
+Commands:    Fight/Steal/Flee/Item
+Strengths:   Agility
+Special:     Flee is a higher percent version of Run.  Also,
+	     Thieves, when they are the visible character, can
+	     open doors that normally only a magic key can unlock.
+	     The use of Steal is obvious. Use it to steal various things 
+	     from enemies.
+Use:         Double up the knives, have him stealing when thats not 
+	     enough, and have him use flee frequently when in toad
+	     or small form.
+
+    Ninja
+-------------
+Weapon Type: All Weapons
+Armor Rank:  Great!! Can use all armor
+Commands:    Fight/Parry/Run/Item
+Strengths:   Agility/Escape
+Special:     He can use everything.  What else do you need?
+Use:         Later in the game...equip him with Shuriken.
+	     Double up and fire away for 5000+ damage.  You can
+	     equip new ones during battle without turn penalty.
+
+    Sage
+-------------
+Weapon Type: Books
+Armor Rank:  Weak
+Commands:    Fight/Magic/Run/Item
+Strengths:   Magic
+Special:     Lv.1-8 Black/White/Call Magic   
+Use:         These guys rock.  They hold everything! Stock them   
+	     up with Call magic before adding black and white.  Why
+	     not change all your magicians to this class?  Because
+	     they are not specialized, their magic is not as effective
+	     as pure white or black wizards.
+
+  Red Mage
+-------------
+Weapon Type: Swords/Knives
+Armor Rank:  Medium
+Commands:    Fight/Magic/Run/Item
+Strengths:   HP/Magic
+Special:     Level 1-4 Black or White Magic
+Use:         Put together your favorite arsenal, as the combination
+	     of black and white magic makes him a force to be reckoned
+	     with....for awhile.
+
+   Scholar
+-------------
+Weapon Type: Books
+Armor Rank:  Weak
+Commands:    Fight/Peep/Peer/Item
+Strengths:   none
+Special:     Peer lets you spy on the strengths/weaknesses of enemies.  
+	     Peep is the same as -Peep- Magic.
+Use:         Not very effective for fighting...he is best only for
+	     keeping tabs on enemies. Peer is VERY important for the 
+	     battle with the Wizard Hyn, according to one of my sources.
+	     Nothing wrong with blundering through like I did though.
+
+ White Mage
+-------------
+Weapon Type: Staff
+Armor Rank:  Weak
+Commands:    Fight/Magic/Run/Item
+Strengths:   Magic
+Special:     White Magic Lv.1-7
+Use:         For most of the game, white mages hold you in the game 
+	     with their healing powers.  Always keep them well stocked
+	     with magic.
+
+ White Wizard
+-------------
+Weapon Type: Staff
+Armor Rank:  Weak
+Commands:    Fight/Magic/Run/Item
+Strengths:   Magic
+Special:     White Magic Lv.1-8
+Use:         Upgrade to this class ASAP.  While you can't
+	     get Lv. 8 magic until the Crystal Tower, they
+	     will offer you enhanced skills and magic uses, and they 
+	     have more MP.
+
+ Black Mage
+-------------
+Weapon Type: Knives/Rod
+Armor Rank:  Weak
+Commands:    Fight/Magic/Run/Item
+Strengths:   Magic
+Special:     Black Magic Lv.1-7
+Use:         These guys sure are handy!  Loads of evil magic
+	     to rain on your opponents...just keep their magic
+	     up to date.
+
+ Black Wizard
+-------------
+Weapon Type: Rod
+Armor Rank:  Weak
+Commands:    Fight/Magic/Run/Item
+Strengths:   Magic
+Special:     Black Magic Lv.1-8
+Use:         2 words.  Flare and Meteo.  They hit hard, and they
+	     hit fast.  The power of nuclear energy is not to
+	     be ignored; so get it!
+
+    Hunter 
+---------------
+Weapon Type: Bow/Arrows
+Armor Rank:  Weak
+Commands:    Fight/Magic/Parry/Item
+Strengths:   Magic, Fighting
+Special:     Level 1-3 White Magic
+Use:         This is a tough call.  The armor level is often not up to
+	     par, and lots of investment is needed for good arrows, but
+	     in the end, this is quite an effective class.  Make sure
+	     you keep his arrow stock up!
+
+  Taoist (Elementalist)
+-------------
+Weapon Type: Bells
+Armor Rank:  Weak
+Commands:    Fight/Terrain/Parry/Item
+Strengths:   Element
+Special:     Terrain:  Magic Attack based on fighting location.
+Use:         Incredibly useless.  They look funny in their
+	     North Pole outfit, but come up worthless in battle.
+
+  Dragoon
+-------------
+Weapon Type: Spears
+Armor Rank:  Strong
+Commands:    Fight/Jump/Parry/Item
+Strengths:   HP/Attack
+Special:     Jump takes Dragoon out of battle for 1 round, thus suffering
+	     no damage from enemies.  On second round, he will fall and
+	     smash the opponent for up to 200% more damage.
+Use:         Double up the spears and keep him flying.  If bosses use
+	     some bad magic...jump may keep your fight alive.
+
+  Viking
+-------------
+Weapon Type: Axe, Hammer
+Armor Rank:  Medium
+Commands:    Fight/Parry/Run/Item
+Strengths:   HP/Attack
+Special:     None
+Use:         A good alternative to the fighter or knight for a short
+	     time.  Axes hit less but are stronger.
+
+   Caller
+-------------
+Weapon Type: Rods
+Armor Rank:  Medium
+Commands:    Fight/Magic/Run/Item
+Strengths:   Magic
+Special:     Level 1-8 Call Magic (Effect type)
+Use:         Its your choice.  Some of the later spells are better than
+	     black magic, but there is not as much variety to the magic.
+
+    Bard
+-------------
+Weapon Type: Harps
+Armor Rank:  Weak
+Commands:    Sing/Scare/Cheer/Item
+Strengths:   none; not being able to just 'Fight' is annoying
+Special:     Sing lets you sing the songs of troubadours. Cheer peps 
+	     the party up. Scaring enemies is just silly. 
+Use:         Well...if you feel adventurous....
+
+  Summoner
+-------------
+Weapon Type: Rods
+Armor Rank:  Weak
+Commands:    Fight/Magic/Run/Item
+Strengths:   Magic
+Special:     Level 1-8 Call Magic (attack type)
+Use:         This is basically the next level of Caller, with the only
+	     additions being able to equip new armor and increase
+	     magic effectiveness.
+
+---------------------------------------------------------------------------
+2.2     What Magic is found or bought in FF3j?
+___________________________________________________________________________
+
+FF3j has 3 types of Magic:  Black (Attack), White (Healing), and 
+Call (Attack by monster).  Certain Magic spells are not limited to
+hitting one enemy or ally; if you press over far enough, all enemies
+or allies will be selected.  This method spreads the single spell over
+all enemies or allies, which gives a weaker effect.
+
+Kill based magics are special: Their success rates depend on how
+their level compares to yours, and upon a certain rate of chance.  At
+even levels, 40% is my best percentage guess.
+
+Elemental magics depend on your knowledge of the 4 elements.  In almost
+all cases:      Lit beats Water
+		Ice beats Fire
+		Fire beats Ice
+		Wind beats Earth
+-----------------------------------------------------------------------
+Black Magic     Effect                  Range          Lv.    Cost (GP)
+
+Fire            Fire Attack [weak]      (single/multi)  1     100  
+Ice             Ice Attack  [weak]      (single/multi)  1     100
+Sleep           Put Enemy to Sleep      (single/multi)  1     100
+
+Lit             Lightning Attack [weak] (single/multi)  2     700        
+Poison          Poisons Enemy    [weak] (single/multi)  2     700
+Blind           Blind's Enemy           (single/multi)  2     700
+
+Fire 2          Fire Attack [medium]    (single/multi)  3     1500
+Ice 2           Ice Attack  [medium]    (single/multi)  3     1500
+Lit 2           Lightning Attack [med.] (single/multi)  3     1500
+
+Ice 3           Ice Attack  [strong]    (single/multi)  4     3000
+Shade           Stuns Enemies           (single/multi)  4     3000
+Break           Turns enemy to          (single)        4     3000
+		stone after several uses.
+
+Lit 3           Lightning Attack [str.] (single/multi)  5     5000
+Erase           Erases Enemy (kill)     (single)        5     5000
+Kill            Kills Enemy             (multi)         5     5000
+		Only Seems to work Outdoors
+
+Fire 3          Fire Attack [strong]    (single/multi)  6     10000
+Bio             Poisons Enemies [strong](single/multi)  6     10000
+Warp            Return to Previous Floor(multi)         6     10000
+		Same as Erase in battle
+
+Break 2         Stones Enemy            (single)        7     20000
+Quake           Earthquake Attack       (multi)         7     20000
+Drain           Steals HP from Enemy    (single)        7     20000
+
+Flare (Nuke)    Nuclear Flare           (single/multi)  8     60000
+Death           Doom Attack kills Enemy (single)        8     60000
+Meteo           Meteors Hit Enemies     (multi)         8     60000
+
+-------------------------------------------------------------------
+White Magic     Effect                  Range          Lv.    Cost (GP)
+
+Cure            Restores HP [weak]      (single/multi)  1     100
+Anti            Cures Poison            (single/multi)  1     100
+Sight           Same as Midget Pan item (single)        1     100
+
+Aero            Wind Attack             (single/multi)  2     700
+Toad            Change to Toad          (single/multi)  2     700
+Size            Change to Midget        (single/multi)  2     700
+
+Cure 2          Restores HP [medium]    (single/multi)  3     1500
+Wash            Cure Pois., Blind, Conf.(single)        3     1500
+Exit            Exit Dungeon/Tower/Cave (multi)         3     1500
+		In Battle, works as -Erase-.
+
+Peep            Examine Enemy HP        (single/multi)  4     3000
+Confuse         Confuses Enemies        (single/multi)  4     3000
+Mute            Mutes Enemy (no magic)  (single/multi)  4     3000
+
+Cure 3          Restores HP [strong]    (single/multi)  5     5000
+Raise           Revives Slain Ally [1HP](single)        5     5000
+Protect         Temporary Defense Up    (single)        5     5000
+
+Aero 2          Wind Attack [medium]    (single/multi)  6     10000
+Soft            Restores Stone Ally     (single)        6     10000
+Haste (Fast)    Essentially doubles     (single)        6     10000
+		ally's Attack Power.
+
+Cure 4          Restores HP [strong+]   (multi)         7     20000
+		Restores HP [complete]  (single)
+Wall            Reflects Magic at Sender(single)        7     20000
+Heal            Heals all conditions    (single)        7     20000
+		except death.
+
+
+Gale            Tornado hits enemy and  (single/multi)  8     60000
+		reduces HP to 5
+Holy            Holy Energy hits Enemy  (single)        8     60000
+Araise          Revives Slain Ally to   (single)        8     60000
+		Full HP.
+-------------------------------------------------------------------
+Call Magic is rather different depending on the character who 
+uses it.  For the Caller class, the Effect will be either A or B.
+For the Summoner or Sage, the effect will be C. Name in parentheses 
+is the official 'name' of the spell itself.
+
+
+Call Magic      Effect                  Range          Lv.    Cost
+					
+Chocobo         A: Party runs from      (multi)         1     100
+(Escape)           Battle.
+		B: Pink Chocobo bites   (single)        1     100
+		   enemy for damage.
+		C: Pink Chocobo bites   (multi)         1     100
+		   at all enemies.
+
+Shiva           A: Casts Sleep on foes  (multi)         2     700
+(Icen)          B: Attacks one Enemy    (single)        2     700
+		C: Shiva makes cutting  (multi)         2     700
+		   Diamond Dust rain down on the enemies.
+
+Ramuh:          A: Stuns enemies        (multi)         3     1500
+(Spark)         B: Staff of Lightning   (single)        3     1500
+		   electrocutes enemy.
+		C: Staff of Lightning   (multi)         3     1500
+		   electrocutes enemies.
+
+Ifrit           A: Restores Partial HP  (multi)         4     3000
+(Heat)          B: Torches Enemy        (single)        4     3000
+		C: Flames of Hell       (multi)         4     3000
+		   scorch enemies.
+
+Titan           A: Punches or Kicks     (single)        5     5000
+(Hyper)            Enemy (strong)
+		B: Punches or Kicks     (single)        5     5000
+		   Enemy (medium)
+		C: Ground Stomp creates (multi)         5     5000
+		   powerful earthquake.
+
+Odin            A: Casts Wall on Allies (multi)         6     ----
+(Catastrophe)   B: Sword hits one enemy (single)        6     ----
+		   for damage.
+		C: Sword slash dices all(multi)         6     ----
+		   opponents. (kill)
+
+Leviathan       A: Stone glare! hits    (multi)         7     ----
+		   enemies and petrifies them.
+(Levia)         B: A huge waterspout strikes enemies.(multi)
+		C: A tsunami              (multi)         7     ----
+		   slams into enemies.
+
+Bahamut         A: Casts -Fast- on      (multi)         8     ----    
+(Bahamur)           your party
+		B: Flare Kills Enemy    (single)        8     ----         
+		C: Breath of Mega Flare (multi)         8     ----
+		   torches enemies.
+
+---------------------------------------------------------------------------
+2.3     What Items can be found/bought in FF3j?
+---------------------------------------------------------------------------
+
+Cost:   Price to buy Item in GP. "-" signifies it can only be found.
+Range:  S= Single       A=Ally (Allies)
+	M= Multi        E=Enemy(Enemies)
+
+Effect: Describes result of using item.  Elemental Items quite often
+	have a random damage level.
+
+
+
+Name            Cost (GP)   Range   Effects
+
+Potion          150             S-A     Restores HP [Up to 300 HP]
+Voice           100             S-A     Cures "Mute" Condition
+Eyedrop         40              S-A     Cures "Blind" Condition
+Soft            300             S-A     Cures "Stone" Condition
+HiPotion        1200            S-A     Restores HP [Up to 500 HP] 
+Pure            80              S-A     Cures "Poison" Condition
+Midget Pan      200             M-A     Shows Overworld Map 
+					(buy some in Tozas)
+Gisahl Vegetable                        Drop in Box to reveal Fat Chocobo
+(Carrot)        150             S-A     (get in Gisahl or on Invincible)
+FenixDwn        -               S-A     Revives Slain Ally, Gives 1 HP
+Elixir          -               S-A     Cures All HP, Restores MP
+DarkScent       -               S-E     Same as -Doom- Magic
+LamiaScale      -               SM-E    Stuns Enemy/Enemies
+God'sRage       -               SM-E    Same as -Lit2- or -Lit3- Magic
+EarthDrum       -               M-E     Same as -Quake- Magic
+Bomb'sRightArm  -               SM-E    Same as -Fire2- or -Fire3- Magic
+Piece of Bomb   -               S-E     Same as -Fire- or -Fire2- Magic
+?y]YAPe         1000            M-A     Same as -Exit- Magic
+Lilith'sKiss    -               S-E     Same as -Drain- Magic
+MagicLamp       ????            S-A     ????
+Bacchus' Wind   -               S-A     Same as -Fast- Magic
+Curtain of Light-               S-A     Same as -Wall- Magic
+Maiden'sKiss    ????            S-A     Cures Toad
+TurtleShell     -               S-A     Same as -Protect- Magic
+WhiteScent      -               S-E     Same as -Holy- Magic
+Chocobo'sRage   -               S-E     Same as -Flare- Magic
+BlackHole       -               S-E     Same as -Erase- Magic
+Tranquilizer    -               SM-E    Same as -Shade- Magic
+Zeus'Rage       -               SM-E    Same as -Lit1,2,3- Magic
+Magic Key       100             --      Opens Almost all Locked Doors.
+Icy Wind 
+IceBlast
+Demon'sSigh
+Imp'sYawn
+FhYJCmm
+MuteToken
+WoolPillow
+Bomb'sHead
+
+
+---------------------------------------------------------------------------
+2.35    What Special (Plot) Items can be found in FF3j?
+---------------------------------------------------------------------------
+
+Noah's Lute:   -Mystical instrument used to awaken Une.
+Eureka Key:    -Key used to unlock the door to the Forbidden Land Eureka.
+Sylx Key:      -Key used to unlock the upper floors of Crystal 
+		Tower. (Sylx Tower)
+Dwarf'sHorn    -Horn of the Dwarves; stolen by the theif Guzco.
+Nepto'sEye     -Missing right eye of the Nepto Dragon from Nepto Shrine.
+Gear of Time   -Piece of Hyn Castle used for air travel.
+WindFang       -Used at Statues.
+FireFang       -Gained after Defeating Salamander.  Used at Statues.
+WaterFang      -Gained after Defeating Kraken.      Used at Statues.
+EarthFang      -Used at Statues.
+
+---------------------------------------------------------------------------
+2.4     What Weapons can be bought/found in FF3j?
+---------------------------------------------------------------------------
+Name: Name of the Weapon.  Certain names may be replaced with - to signify
+      I can't understand what it means!
+
+Strength: The Attack power as recorded from a Level 50 Ninja (Skill 1).
+	  NOTE: Attack power varies WIDELY depending on the class
+		you choose.  Dragoons will receive more benefit
+		from spears, etc.
+	  NOTE: Attack power may receive individual bonuses if:
+		a)You equip 2 of the exact same weapon.
+		b)You equip 2 weapons of the same attack power.
+
+Type:     Type of Weapon.  There are Swords, Spears, Boomerangs,
+	  Daggers, Axes, Hammers, Katanas, Bells, Nunchucks, Claws,
+	  Staffs (twirled end), Rods (ball end), Harps, Bows, Arrows,
+	  and books.
+	
+	NOTE:  Claw's and Nunchucks have the same icon...but 
+		don't be fooled.  Only Masters use the claw, and
+		only black belts use the 'chucks.
+
+
+
+Equip on: The eligible characters to use this weapon.  
+	  
+	  F: Fighter     K: Knight       P: Paladin       T: Thief
+	  N: Ninja       Sc: Scholar     C: Caller        B: Black Belt
+	  D: Taoist      V: Viking       A: Archer        S: Summoner
+	  Ba:Bard          
+
+	  Km: Karate Master     Dr: Dragoon
+	  Bm: Black Mage        Wm: White Mage          Rm: Red Mage
+	  Bw: Black Wizard      Ww: White Wizard        Sa: Sage
+	  
+Value:    The actual resale value of the weapon.  To find the shop
+	  value, multiply the value by 2.
+
+
+Name            Strength        Type    Value   Equip On   Effect
+
+Defender        78              Sword   8250    N K               
+BreakBlade      103             Sword   15000   N K
+Excalibur       144             Sword   32500   N K
+King's          33              Sword   2500    N K
+GsGmYRoG        -13             Sword   2500    N K
+????            164             Sword   32750   N K
+IceBrand        ???             Sword   ???     N K          Ice Based
+Serpent         8               Sword   750     N K           
+WhiteSlayer     -2              Sword   500     N K
+Salamand        15              Sword   1500    N K         Fire Based
+Tilving         12              Sword   1400    N K
+Mithril         0               Sword   250     N K
+Long            -7              Sword   100     N K
+Ancient
+Blood
+Onion
+
+Masamune        143             Katana  32500   N P
+GHBQisl"        108             Katana  11000   N P
+JSR             88              Katana  10500   N P
+Al              48              Katana  10000   N P
+
+DSI"Rns         143             B'rang  31000   N P K
+????            28              B'rang  4500    N P K
+
+
+Holy            83              Spear   22500   N D
+Blood           82              Spear   10000   N D
+Thunder         30              Spear   4000    N D
+Wind            33              Spear   5000    N D
+
+Tomahawk        43              Axe     10000   N V
+???             58              Axe     7000    N V
+Battle          28              Axe     2750    N V
+ar????          32              Axe     4000    N V
+
+Triton          68              Hammer  10000   N V
+Thor            23              Hammer  7000    N V
+
+Catclaw         25              N'chuck 7000    N B Km 
+Dragon          31              N'chuck 9000    N B Km
+Hell            43              N'chuck 20000   N B Km
+Tonfa           3               N'chuck 250     N B Km
+3-Part          8               N'chuck 1500    N B Km
+Kaiser          18              N'chuck 3500    N B Km
+???z?           -5              N'chuck 30      N B Km
+Elven           ??              N'chuck ??      ?????
+
+Shuriken        183             Dart    32750   N
+
+Orihalcon       28              Dagger  6000    N T
+AirKnife        43              Dagger  5000    N T
+Mithril         -7              Dagger  250     N T Bm
+MainGauche      13              Dagger  3500    N T
+Knife           -11             Dagger  10      N T
+Dagger          -9              Dagger  10      N T B
+
+Staff           -18             Staff   20      N
+Shine           -11             Staff   1750    N
+Ice             -11             Staff   1750    N          Ice Based
+Burn            -11             Staff   1750    N          Fire Based
+Rune            3               Staff   9000    N
+Golem           0               Staff   6750    N
+Eldest          13              Staff   32500   N         Same as "Break"
+
+Total           3               Rod     15000   N          Same as "Break"
+Flame           -5              Rod     1500    N          Fire Based
+Frozen          -5              Rod     1500    N          Ice Based
+Light           -5              Rod     1500    N        
+Mithril         -12             Rod     200     N        
+
+Giyaman         8               Bell    2250    N
+Earth's         8               Bell    2250    N
+Rune            22              Bell    2750    N
+
+Madora          23              Harp    4000    N B
+Lamia           -18             Harp    10750   N B
+Loki's          42              Harp    20000   N B
+Dreamer
+
+Lumina          54              Book    7500    N Sc
+Blizzard        54              Book    7500    N Sc
+Blaze           54              Book    7500    N Sc
+Heat
+Cold
+
+Killer          0               Bow     1000    N A
+Yoichi's        0               Bow     21000   N A
+Bow
+GreatBow
+Rune
+
+lBQYj           68              Arrow   100     N A
+Nether          20              Arrow   15      N A
+Fire            20              Arrow   15      N A
+Ice             20              Arrow   15      N A
+Wooden
+Holy 
+Iron 
+Medusa 
+
+---------------------------------------------------------------------------
+2.5     What Armor can be bought/found in FF3j?
+---------------------------------------------------------------------------
+Name, Value, Effect:  See Weapons Section
+Defense: Defense Value
+Type: Armor Type.  There are suits, helmets, shields, 
+		   rings, bracelets, gloves, and robes.
+
+Equip on: The eligible characters to use this weapon.  
+	  
+	  F: Fighter     K: Knight       P: Paladin       T: Thief
+	  N: Ninja       Sc: Scholar     C: Caller        B: Black Belt
+	  D: Taoist      V: Viking       A: Archer        S: Summoner
+	  Ba: Bard                  
+
+	  Km: Karate Master     Dr: Dragoon
+	  Bm: Black Mage        Wm: White Mage          Rm: Red Mage
+	  Bw: Black Wizard      Ww: White Wizard        Sa: Sage
+
+
+
+
+Name            Defense         Type    Value   Equip On        Effect
+
+BlkBelt         11              Suit    1900    N N             
+Genji           24              Suit    20000   N Km
+Crystal         28              Suit    32500   N K
+Reflect         20              Suit    17500   N K
+Diamond         18              Suit    16500   N K
+Dragon          15              Suit    4000    N K
+Demon           17              Suit    12500   N P
+Earth           16              Suit    2400    N
+Tsunogai        4               Suit    625     N
+Mithril         3               Suit    175     N F
+Clothes         1               Suit    25      N 
+Hide            2               Suit    42      N F
+Darksuit        18              Suit    1900    N
+Viking          10              Suit    2000    N V
+Scholar         15              Suit    3750    N Sc
+Bard            15              Suit    2750    N Ba
+Flame           5               Suit    1200    N K             Fire Based
+Karate          6               Suit    1000    N Km            Gold Based?
+Wizard          11              Suit    1000    N 
+Ice             5               Suit    1200    N K             Ice Based
+Onion
+Knight
+
+
+White           20              Robe    3500    N Ww Wm
+Black           20              Robe    3500    N Bw Bm
+
+Ribbon          ??              Helmet  ????    ALL
+Chakra          8               Helmet  1000    N
+Dragon          7               Helmet  4000    N
+Genji           10              Helmet  16000   N
+Diamond         8               Helmet  10000   N
+Crystal         12              Helmet  25000   N
+Scholar         5               Helmet  3750    N Sc
+Mithril         2               Helmet  65      N
+Hide            1               Helmet  7       N
+BlackHood       5               Helmet  1000    N
+Viking          7               Helmet  1500    N V
+Feather         7               Helmet  4000    N Ba
+Ice             4               Helmet  600     N K
+Headband        4               Helmet  600     N B Km
+Onion
+Tsunogai
+Dragon
+
+Crystal         22              Shield  25000   N K
+Aegis           16              Shield  14000   N K     
+Diamond         13              Shield  9000    N K
+Hero            10              Shield  1750    N K
+Hide            3               Shield  20      N
+Demon           12              Shield  6250    N
+Mithril         5               Shield  90      N
+Ice             8               Shield  900     N
+Onion           
+Genji
+				
+Crystal         10              Glove   25000   N
+Diamond         6               Glove   7500    N
+Genji           9               Glove   15000   N
+Thief           3               Glove   1250    N T
+Copper          1               Glove   40      N F
+Mithril         1               Glove   60      N
+Oniolet
+
+Diamond         6               Brclet  5000    N
+Power           4               Brclet  1250    N
+Rune            5               Brclet  2500    N
+Mithril         2               Brclet  60      N
+Gauntlet
+
+Protect         9               Ring    15000   N
+
+???????         unknown 57
+
+----------------------------------------------------------------------------
+ 2.55 What are the various bosses and their HP levels?
+----------------------------------------------------------------------------
+
+Boss Name               HP
+
+Land Turtle             120
+Jinn                    480
+Bahamut (1st)           60000 (Killing has no effect)
+Sea Serpent             60000 (Killing has no effect, have to fight it again)
+Rat                     450
+Medusa                  980
+Salamander (weak)       1400
+Salamander (strong)     2100
+Death (Wizard Hyn)      1600
+Kraken                  1950
+Goldor                  2250
+Phoenix                 5000
+Odin                    7000
+Leviathan               7000
+Bahamut (2nd time)      7500
+Paladin Boss            6500 (Cave of Ordeals)
+Paladin Boss            7800 (Crystal Tower)
+Hidden Sage             1100 (Paladin Town)
+Dorga                   4500
+Une                     4500
+
+-- EUREKA BOSSES --
+
+4F - Super Death        7040 (Boomerang)
+5F - Pink Assassin      9000 (Masamune)
+6F - Red Barbarian      12000 (Excalibur)
+7F - Multi-Headed Wolf  10000 (Eldest Staff)
+7F - Giant              12000 (Sword)
+
+-- END OF GAME BOSSES --
+
+Demon Zande             21000
+Cloud of Darkness       65000 (unbeatable)
+Neo Zande               10000 (for ribbon helmets)
+3-Headed Wolf (NW boss) 23000
+Troll (SW boss)         32000
+2-Headed Dragon         29000
+One-Eye                 35000
+Cloud of Darkness       65000
+
+
+---------------------------------------------------------------------------
+2.6     What are the various races in Final Fantasy?
+---------------------------------------------------------------------------
+Its not that complicated as some weird dungeons and dragons stuff.
+
+-Humans are the most prolific beings.  If you, the gameplayer, are not
+ one, I suggest looking at humans until you are familar with their
+ shapes.  ;)
+
+-Chocobos are the horses of Final Fantasy.  They are basically very
+ large chickens that move much faster than humans. In FF3j, white chocobo's
+ are not very intelligent, but Fat Chocobo's are.  They have a second
+ stomach that stores your items without decay.
+
+-Dwarves are a rather wild genetic turn.  Their faces are a complete
+ shadow, with the exception of two white eyes that almost glow from their
+ face.  Their bodies are actually just like humans, albeit a bit smaller,
+ which confuses things more.  Every grown dwarf usually wears a horned
+ helmet and triangular beard (Even females in some cases!).
+
+-Elves are fairly generic.  They are usually a tad shorter than humans,
+ with green clothing and a feathered cap a la Robin Hood.
+
+-Faeries are exactly what you expect.  Tiny little ladies with
+ butterfly wings that zoom about.
+---------------------------------------------------------------------------
+2.65    Who are the Companions that travel with you?
+---------------------------------------------------------------------------
+
+Person:         Info: 
+Princess Sara   -The pretty (although sometimes childish) princess 
+		 of Sasun Kingdom.  Accompanies you in the Cave of 
+		 the Seal to defeat Jinn. 
+
+Desh            -Went to the mountain looking for something. 
+		 Accompanies you in your quest, after
+		 you run from Bahamut.
+
+Cid             -Master Airship creator. Helps you build two ships. 
+		 Lives in Canaan but was stuck in Kazus when Jinn's 
+		 curse was laid.
+
+Elia            -The kind Maiden of Water. Accompanies you to the 
+		 Water Crystal after you cure her. She is the only one 
+		 who can open the sealed door in the Cave of Water to 
+		 reach the Crystal.
+
+Prince Alus     -Accompanies you to find out why his father the King 
+		 Gorn of Salonia is acting so mysteriously.
+
+Une             -The guardian of the World of Dreams. When you first 
+		 come across Une, the bird Oumu will shoo you away. 
+		 Accompanies you to find the great Invincible (an airship).
+
+Dorga            -A great wizard. Accompanies you through the Mahoujin 
+		  Cave and modification of the Nautilus to travel to 
+		  the depths of the sea.
+
+---------------------------------------------------------------------------
+2.67            How is Travel accomplished?                
+---------------------------------------------------------------------------                
+Mode:           Status:                
+Walking         -Slowest.  Random number is generated each time
+		 you enter the outworld, and when it reaches Zero,
+		 you fight.  Each step you take has a value,
+		 plain grass being -1, forests -3 (or so), etc.  
+		 While the Enemy type is predetermined,  how you
+		 fight it is not.  Reverse battles are caused by
+		 overshooting the Zero by a certain number, and 
+		 conversely, if you hit Zero exactly, you will
+		 catch the enemy by surprise.  These values
+		 also effect how many of a particular enemy
+		 you face, but it is unclear to me how.
+
+White Chocobo:  -Average Speed.   Chocobo's are found in forest areas,
+		 often in trees formed into a small circle.  You
+		 won't fight enemies while riding one, but when you
+		 disembark, the Chocobo will automatically run back
+		 to its home forest.  Chocobo's can walk through
+		 rivers, plains, forests, and deserts.  
+		 
+Sailing Ship:   -Average Speed.  The ship is obtained by returning
+		 the dragon eye to the Nepto Temple; The Vikings
+		 will give it to you in gratitude.  The ship
+		 can sail through ocean water only, but unlike
+		 previous Final Fantasy I, you can disembark at any
+		 shoreline.
+
+Canoe:          -Slow.  The Canoe allows you to journey through
+		 rivers and lakes, and is automatically carried during
+		 your journey once you obtain it from the King of
+		 Sasun.  Unfortunately, the waves of the ocean prove
+		 too rough for it.
+
+Cid's Airship
+		-Average Speed. The Hikuutei is found in the desert   
+		 west of Kazus. It can go over any surface
+		 but mountains.  It can only land on grass plains, and
+		 is eventually used as a wrecking ball (of sorts).
+		 Enemies are not fought in Airships unless in special
+		 areas.
+
+Airship
+Enterprise      -Above Average speed.  The enterprise is actually a 
+		 modified version of the Sailing Ship, using a part
+		 from the Floating Fortress.  This airship can go
+		 over any surface except mountains, but can only
+		 land in the ocean.  Enemies are not fought in 
+		 Airships unless in special areas.
+
+Airship
+Nautilus        -Super Fast! The Nautilus is created by the Scholar's
+		 guild in Salonia after they accidentally shoot down
+		 the Enterprise.  Like the other airships, it can not
+		 go over mountains, but instead can submerge under
+		 the ocean water to find secret caves (once modified by
+		 Dorga's magic spells).  The Nautilus
+		 can only land on grass plains. Enemies are not fought 
+		 in Airships unless in special areas.
+
+Airship
+Invincible      -Average Speed. The Invincible is the Battleship of
+		of flight.  It is 4 times the size of the nautilus!
+		 In case you have an Airship battle (in special areas),                 
+		 the Invincible is armed with a cannon that hits all
+		 enemies before each round begins. You can disembark
+		 on any form of land (excluding mountains) because the
+		 ship never actually lands!  Inside, the ship contains 
+		 a free bed (Inn), 4 vending machines (Item, Weapon,
+		 Armor, and Magic for sale), and a strange white bin.
+		 Deposit a carrot, and the infamous Fat Chocobo will
+		 appear, complete with his trademark music!  Also,
+		 while driving the Invincible, if you press the
+		 "A" button, the engines will temporarily increase
+		 power to lift you over thin sections of mountains.
+
+---------------------------------------------------------------------------
+2.7     General FF strategy tips:
+---------------------------------------------------------------------------
+There are some tips that are common for almost every Final Fantasy game,
+or at least for the duration of FF3j.
+
+-Know your elements.  If you're in a water cave, use lightning. If you're
+ in a fire cave, use ice. Likewise, if you're in an ice cave, use fire.
+ If you're fighting the undead (zombies, etc.) use cure. If you're not
+ sure, fire away with your highest level magic or look at the color
+ and shape of the particular enemy you face.  Light Blue Urchins, 
+ regardless of their current location, are suceptible to Lightning.
+
+-Gain levels if you have a bit of trouble.  Level-ups are so crucial
+ to surviving that I recommend trying not to run unless you are in
+ extreme circumstances.  An extra couple of levels may make the 
+ difference between life and death in a particular battle.
+
+-Keep weaker party members in the back row.  Characters that do not
+ have high level armor (magic users!) belong in the back row.  Back row
+ characters only attack at 1/2 normal, but their defense is 1/2 better
+ as well.  Since magic doesnt care about distance, keep them behind!
+
+-Pair Like Weapons.  There is almost always a boost in attack power
+ if you equip two of the exact same weapons on one character.
+
+-Shields?  What are Shields?  Shields in FF3j are useless as far as
+ I'm concerned.  For what usually amounts to a defense increase of 10,
+ is better spent on a second weapon, which in most cases doubles or 
+ triples attack power.
+
+-Ok, maybe shields aren't THAT bad.  It just depends if you want
+ defense or offense.  Its also possible to have dual shields, although
+ to what advantage they could be is unknown.
+
+-Greed is the key.  Final Fantasy is a game built for cleptomaniacs.
+ If you see a treasure chest, open it.  Always search torches, bowls,
+ fireplaces, even bookshelves, for goodies.  Consider it your danger-pay.
+
+-Don't run around like a squirrel.  There is nothing wrong with running,
+ but....during the round in which you try to run, your defense levels
+ drop to zero.  However, if you are the size of a squirrel, feel free;
+ your defense is already at zero anyway!
+
+----------------------------------------------------------------------------
+2.75    What the hell is a Fat Chocobo?
+----------------------------------------------------------------------------
+The Fat Chocobo is another Final Fantasy trademark.  They are an 
+extremely fat and multi-stomached Chocobo that is also quite
+intelligent.  By using a certain veggie from the town of Gisahl (Carrot), 
+which happens to be this chubby chocobo's favorite food, 
+the Fat Chocobo will suddenly appear (boy is he hungry!) and will 
+deposit any items you do not need immediatedly in his stomach.  
+He most likely needs the items as something to digest his food with, 
+but luckily, your items are unaffected even after long stays.  
+However, he cannot swallow special items (or plot items).
+
+The Chocobo appears in any forest by dropping a carrot where
+'It smells like Chocobo's', or in the 'Invincible', where you can
+also by vending machine carrots.
+
+
+----------------------------------------------------------------------------
+2.8     How do I play the game?
+----------------------------------------------------------------------------
+It's very easy, actually.  The control pad is for movement.  The A
+button confirms actions, talks to people, searches things, and opens
+treasure.  The B button CANCELs whatever you have selected.  Start
+brings up your character screen.  Select changes who is the visible
+party member.
+
+----------------------------------------------------------------------------
+2.9     Im suffering a)from a lack of japanese understanding
+		     b)from being stuck in a part of the game.
+		     c)from not being able to make a decision on classes.
+		     d)a feeling I've missed something.
+----------------------------------------------------------------------------
+I can answer this question 4 different ways:
+	     a)Learn Japanese.  It is available in most schools as
+	       a language course.
+	     b)Invite someone over who knows Japanese.
+	     c)Read the Walkthrough.
+	     d)Rough it.
+
+----------------------------------------------------------------------------
+ 2.15   Comparisons & Oddities
+----------------------------------------------------------------------------
+	-Not only do the moogles and chocobo's appear, but FF1 trademark
+	 princess Sara does as well.  Combine that with the Gurgan
+	 tribe who behave suspiciously like the circle of mages in
+	 FF1, and you have the hint of something like a true sequel
+	 in the FF series.
+
+	-The Hyn Fortress is made of the oldest tree in the world;
+	 the mana tree.  Combine that with the moogles appearing...
+	 prelude to Secret of Mana?
+
+	-Some people refer to the carrot as Gisairu Vegetable, others
+	 as Gisahl...odd enough.  I'm still waiting for multi opinions
+	 on some of the translations.
+
+
+----------------------------------------------------------------------------
+3.1     What's with some of the weird names?
+----------------------------------------------------------------------------
+	In most cases, the word is simply the english pronounciation
+	to some point. (Example: Mahoujin Cave)
+
+	In all other cases:
+		a)Name from the Partial Translation
+		b)Name from Tushino's FF3j World 1 Walkthrough
+		c)Name I have come up with from an educated guess.      
+		d)Name is FF tradition. 
+		 (Gisahl Vegetable is the Carrot.  Since FF4, etc, )
+		 (does not have the town of Gisahl, the traditional)
+		 (name of Carrot works better and is easily )
+		 (understood. Since FFIIIj was not translated to the US,)
+		 (the name would not make sense to Americans playing)
+		 (FFII US.)
+----------------------------------------------------------------------------
+3.2     How Can I Help?
+----------------------------------------------------------------------------
+	If you feel you know more, feel free to email me at 
+	rkni@islandnet.com with your information.
+
+	I currently need:       Boss Abilities
+				Some Item information
+				The Equippable On Information.  
+
+----------------------------------------------------------------------------
+3.3     Thanks to....
+----------------------------------------------------------------------------
+
+	Tushino:        Tushino@mail.telis.org
+		-He created a couple of fantastic files which serve
+		 as the motivation and basis of this FAQ.  Without 
+		 his guide to help me, I would never have wanted
+		 to write a FAQ to especially cover the 2nd half
+		 of the game.
+
+	Lamuness:       andych@yesic.com        
+		-Went over the FAQ and added some hints and
+		 other things that very, very few people could
+		 have found out while playing the game.
+
+	Kesac:          -------
+		-Did a few little 'modifications' to give me the 
+		 complete list of weapons, armor, and items
+		 in the game.
+
+	Krusader        mattfitz@ea.oac.uci.edu
+		-Filled me in on some technical points to the game,
+		 as well as a whole slew of translation fixes.  The 
+		 game is starting to sound more english!  :)
+
+	SoM2Freak       --------
+		- Drives me nuts by making me reformat everything and
+		  using a .doc Word 7 format (dumb), but he is 
+		  responsible for much of the translated sections and 
+		  other tidbits!  ^_^
+
+----------------------------------------------------------------------------
+3.4     FAQ Updates
+----------------------------------------------------------------------------
+
+	-Ver. 1.0 released April 1997
+
+	-Ver. 1.1 released May 1997
+		-remembered to add 
+		 'thanks to section'
+		-minor additions
+
+	-Ver. 2.0 released June 1997
+		-new secrets added
+		-"thanks to." section doubles in size
+		-Corrections and additions 
+		 include the call magic differences
+		-Almost all unknown techniques corrected
+		-new character recommendations.
+		-Translation fixes
+		-The Weapons, Armor, Item lists are
+		 confirmed as complete.  Equip knowledge
+		 and special techniques are not.
+		-SoM2Freak added a bunch of things...some good,
+		 some bad!  Yikes!
+
+----------------------------------------------------------------------------
+ 3.5    Author Information
+----------------------------------------------------------------------------
+	Thanks for downloading the FF3j FAQ.  This FAQ took hours of 
+writing, note taking, scripting, and effort from both I and others, but
+the final result is well worth it.  If you have any questions or
+comments, you can email me at rkni@islandnet.com.
+
+	Currently, I maintain a number of FAQs, including:
+
+	(NES) Final Fantasy 3j
+	(NES) Ultima: Quest of the Avatar
+	(N64) Wayne Gretzky's 3D Hockey
+
+	And lord knows what else I'm working on!
+
+----------------------------------------------------------------------------
+4.0     Walkthrough
+----------------------------------------------------------------------------
+FORMAT:         #. Place: 
+		Location:  Whereabouts
+		Shops:     Type of Shops available
+		Boss:      Super-monster of level
+		Enemies:   Monsters wandering
+		Treasure:  Items found in treasure chests
+		Recommendations:  1: My personal selections
+				  2: Tushino's personal Selections
+				  3: Lamuness' personal Selections
+
+
+1. Altar Cave:  
+
+Location: North of Ul Town
+Treasure: various; pick up the Antarctic Winds (Ice Blasts I think)
+Boss:     Land Turtle 
+Starting group: Onionkid/Onionkid/Onionkid/Onionkid
+
+	Search for treasure, and fight enemies while keeping in mind 
+that there is a healing lake in the the upper right corner of the first 
+floor. It would be a good idea to save the antartic's you pick up for 
+later in the game. Gain levels up to Level 5 before you enter the door 
+at the upper left.
+
+Upon entering the Crystal Room, the only enemy is the giant turtle 
+guarding the Wind Crystal. Fight him with regular attacks, and use a 
+Potion to heal if absolutely necessary.  Once you beat it, talk to the 
+Crystal.  You will gain the ability to change characters into 1 of 5 
+classes.
+
+A) New Classes: Fighter, Monk, Red Mage, White Mage, Black Mage
+
+Recommendations:
+
+	1:       Fighter/Monk/White Mage/Black Mage
+	2:       Fighter/Monk/Red Mage  /Black Mage    
+	3:       Fighter/Monk/Black Mage/ White Mage
+
+If you are really greedy, enter the cave again after leaving to get 
+more treasure.  There are a few spots in the cave that obviously look like
+dead ends, but are actually fake walls filled with treasures.
+
+2. Ul Town: 
+Location: South of the Altar Cave; home of the characters
+Shops:    Weapon/Armor/Item/Magic/Revival
+Treasure: Check out the well, and the storehouse in the back of the town!
+Enemies:  Same as Overworld Around Ul
+
+	Upon entering Ul, press start and switch to the jobs menu.  There 
+will be 6 classes listed: Onionkid, Fighter, Black Mage, Red Mage, 
+White Mage, and Monk.  Its up to you who you want to change, although 
+if you're really asking for it, you dont have to change anybody.  
+
+HINT #1:  You must un-equip your character before they can change
+	  classes.
+
+HINT #2:  Remember to place mages in the back row using the 'rank' 
+	  command.  By moving to the back row, they sacrifice 50%
+	  of their weapon strength, but gain double in terms of
+	  defense.
+
+	As for Ul, head immediatedly to the shops and stock up.  
+Fighters work best with 2 swords, Monks with no weapons, Red mages 
+with sword and shield, White mages with 2 staffs, and Black mages with 
+2 daggers.     
+
+	Want some free stuff?  As in every town in the game, always check 
+ceramic pots and torches.  Quite often you will activate a secret door 
+or find something.  In this case, some of the trees are not what they 
+seem.  You can also enter a well for some goodies.
+
+	Nothing changes much in this town; but be careful when walking 
+around the north end; you will fight enemies.  This is a good place for 
+experience though.
+	
+	Talk to the elder, Topapa. He will send the kids, who have been 
+chosen by the Crystals to be the Light Warriors, out on a journey to save 
+the world from the overflow of darkness! 
+
+	     
+3. Kazus Town: 
+Location: South of Ul Town
+Shops:    None Active (curse of Jinn) 
+Treasure:
+Enemies:  (Mithril Mines) Skeletons, Mummies
+
+	As shown by the scared traveler huddled at his fire, the town is 
+full of ghosts because of the curse placed by Jinn. Although the cave is 
+empty and useless, there are still items to be found.  If you want to get
+down to business, talk to the ghost that does not move in the bar. This 
+is actually Cid, the master engineer, in disguise. He will tell you where 
+his secret airship is hidden: The desert to the west.
+
+4. Desert area: Cid's Airship
+Location: West of Kazus
+Enemies:
+
+	Walk into the middle of the small desert patch.  You will 
+automatically climb down a ladder into the control center of the 
+Hikuutei (Airship). This airship has average speed, but cannot go 
+over mountains, and has to land on grass.
+
+5. Sasun Castle
+Location: Northwest of The Desert
+Shops: 
+Treasure: Look around. Walls are not always solid in FF3j! 
+Enemies:  DarkEyes and stuff. Watch out, the Griffon that guards 
+	  the WhiteSlayer is pretty tough.
+
+	This a treasure hunt of easter egg proportions.  The castle
+is devoid of friendly life, but the two towers contain enemies.  One of 
+the treasures in the two towers contains an enemy far stronger than the 
+rest (a Griffon).  Clean his clock with items and magic you find elsewhere 
+in the castle to obtain the 'White Slayer'; a sword for Red Mages.
+
+6. Cave of the Seal: 
+Location: North of the Big Boulder
+Treasure: Get the 'Cure' spell in the treasure chest here! It's 
+	  useful against the undead monsters- and the heavy damage 
+	  they inflict on your party.
+Enemies:  Undeads galore.
+Boss:     Jinn  
+
+	Use the airship to cross the water and enter the cave.  Search for 
+treasure, but keep a lookout for Princess Sara.  Join up with her and 
+continue on to battle the evil Jinn. Use an Antarctic Wind on Jinn. 
+That'll blow him away! He's pretty much a pushover if you're ready for him.  
+Remember where you parked your airship! 
+
+	After the battle, Sara will seal the weakened Jinn in her Mithril 
+Ring. Sara will use the Ring's power to warp her and the party to the holy 
+spring in Sasun Castle. She'll then toss the Ring, with Jinn sealed within, 
+into the shining water. Now the curse is lifted! But ironically, it is a 
+sad time for the party must now part with the Princess Sara. She tells 
+them she will wait always for their return, and they must be sure to 
+come back when their journey is over.
+
+
+7. Sasun Castle (Revived): 
+Location: Northwest of Desert
+Shops:    Revival/Healing       
+Treasure: None.  You should have cleaned this place out by now.
+
+	Talk to the king of Sasun to receive the canoe.  The canoe will 
+let you cross the water to retrieve your airship. Also, if you still 
+have a Red Mage, Tushino recommends changing it to either a black or 
+white mage.
+
+8. Kazus (Revived): 
+Location: South of Ul Town
+Shops:    Weapon/Armor/Item/Magic/Revival
+Treasure: None.  You should have cleaned this place out by now.
+
+	Once you enter Kazus, Cid will talk to you about rigging your 
+airship.  He plans to turn it into a bomb to knock out the big boulder 
+which is blocking the path to the Nelb Valley, which leads to the town 
+of Canaan, where Cid lives.  Stay in town long enough to grab some items, 
+weapons, magic, and armor.
+		
+Note: Doesn't the mine seem awfully suspicious? Well, you're right for 
+thinking that.  With Cid tagging along, switch the visible character to 
+the FIGHTER, and have him search the dead end.  You should find 2 Mithril 
+Swords.
+
+
+9. The Big Boulder: 
+Location: South of Cave of Seal
+
+	For most established Final Fantasy players, watching the Hikuutei 
+burst into flames and rubble will bring a tear to your eye, considering 
+how long it usually takes to get an airship.  Just walk past where the big
+rock once stood and head south.
+
+10. Canaan: 
+Location: South of the Big Boulder
+Shops: Normal stuff    
+Treasure: Try going down the waterfall to find an Elixir!
+
+	This place kind of sucks.  Drop Cid off and head to the magic shop, 
+because magic is all you need.  The armor and weapons are rehashes from 
+Kazus.  Make sure to loot the city.   This is where Cid lives; you 
+might need to call him later on.
+
+	Note: There is a very tricky way to get some nice items from Cid, 
+but it will cost you the Elixir you find in town.  Use the Elixir to cure 
+Sarina when the time comes instead of something cheap.  Cid will then let 
+you press a switch that opens their basement.  Search around for a bow, 
+magic, and other neat stuff.
+		
+
+11. Bahamut's nest
+Location: East of Canaan
+Treasure: Aero (White Magic),                                        
+Enemies:  Lots of bird enemies.
+Boss:     Bahamut
+	
+	If there was ever a time to gain levels, that time is now.  The 
+enemies on the mountain are tough, and if you want to get all the treasure 
+(yes) then you will fight a lot of them.  When you reach the nest of 
+Bahamut, head over to the weird spot in the upper left corner.  This thing 
+is actually Desh, who will join your group. He found a type of magic, 
+Size, and gives it to the party. This will be very important!!
+
+	Shortly after, Bahamut will appear. Its possible that you could 
+beat the master of dragons, but he has around 65000 HP that is automatically 
+restored at the end of each round.  I suggest running..and fast! After 
+running from Bahamut, Desh and the party will jump off the top of the 
+mountain!!
+
+12. Forest of Recovery
+Location: Forest north from Bahamut Drop Zone.
+Shops:    Revival/Healing
+Treasure: None
+	
+There is only one midget in the forest. Heal at the springs and head south. 
+You need to cast the spell of Size that Desh gave to you to continue past 
+this point.  Press over so the finger points to everyone in the party 
+so you only have to cast Size once!  
+
+	Note: When in midget form, your attack and defense is shot all the 
+way down to the ugly number one.  Make sure everybody is in the back row, 
+and dont fight with anybody unless you feel cocky and full of magic.
+
+13. The Town of Midgets: Tozas
+Location: South of the Forest of Recovery
+Shops:    Weapon/Armor/Item/Magic/Revival
+Treasure: Buy some Midget Pans! And remember to loot Shelko's shelves!!
+
+This is one small town!  To enter it, you must first cast Size on the 
+party (like I told you before) and then step on the square of forest where 
+the village is located. Loot the village, then head to the upper left 
+house. Shelko is sick, and cannot leave her house to find a cure.  Walk up
+to her bed, press the "B" button, and give her a herb.  Her sickness will 
+quickly dissapear, and in thanking, she will open an emergency escape 
+entrance.  Have no mercy, for Shelko has the richest book shelves in 
+town. Go through the exit road!
+
+14. The Road out of Tozas:
+Location: Escape area from Shelko's Home
+Treasure: None
+Enemies: DarkFaces, Leprechauns
+
+This can be tough.  You have to be in midget form to make it through the 
+level, so keep everybody back and try to run like hell!  If necessary, 
+use black magic to hold off persistant foes.
+
+15. The Viking Base
+Location: North of the exit of the road leaving Tozas
+Shops:    Inn/Item/Magic/Revival
+Treasure: Fire2, Ice2, Lit2,
+
+This place is chock full of treasure.  Look -everywhere-.  There are 
+suspicious bricks with darkened edges and wall irregularities that can 
+be walked through.  There is even decoy secrets to keep you from getting 
+to the treasure.  If you are frustrated, fire the cannon.  It doesn't do 
+anything but waste time, but it makes a neat splash!
+
+When you exit the cave, you will notice a sailing ship.  You can board it, 
+but the gulf is protected by an immortal sea creature, the powerful Nepto 
+Dragon! Nepto has been frightening the Vikings lately, and won't let them 
+through. He won't let you through, either! Don't try it. He'll just kill 
+you.  He is angry because something stole his right eye from the Shrine of 
+Nepto!
+
+16. Nepto Shrine
+Location: Northwest of Viking Hideout Exit
+Treasure:
+Enemies:
+Boss:     Big Rat
+
+	Another annoying midget level.  You have to return the dragon's 
+right eye by switching to midget form and and walking up to the dragon 
+head.  If you try to return to full size your mission will abruptly end.  
+Load up your black mage if you intend to survive.  Also make sure to pick 
+up all the treasure; there is no return visit.  As for the Rat, pelt him 
+with Ice2 and antarctics.
+
+17. Returning to the Viking Hideout
+Location: South of Nepto Shrine
+Shops:    See 14.
+Treasure: None.  You should have cleaned this place out by now!
+
+Talk to the boss of the ship inside the viking hideout, and he will grant 
+it to you. Now you are able to sail out to sea. Ahoy! The Nepto Dragon is 
+no longer angry, so you are free to pass!
+
+18. Tokkle Village
+Location: Southwest of the Shrine (Near Big Desert)
+Treasure:
+
+Just try to find treasure; some is hidden in the high grass.  Tokkle was 
+destroyed by the villanous soldiers of Hyn's Castle, and after talking to 
+the jumpy old men, you will discover that the soldiers took prisoners as 
+well.  Unfortunately, Hyn Castle is a floating (and thus unreachable) 
+fortress.
+
+19. Village of the Ancients
+Location: Far West of the Big Desert near Tokkle village
+Shops:    Inn/Item/Revival/Weapons/Armor/Magic
+Treasure:
+
+This is a good village to stock up on items from. Get everybody up to 
+speed armor/weapon/magic-wise, and try to gain a few levels before 
+heading up to the Living Forest.
+
+20. Living Forest
+Location: Small Forest North of Big Desert (Surrounded by Mountains)
+
+The fairies will reveal some information about the guru tribe and the evil 
+medusa, and give you a hint about beating the Wizard Hyn's Barrier Change 
+technique. They also tell about the mana tree, the oldest in the world, 
+that has been cursed by Hyn and made into his floating fortress.
+
+21. Gurgan Tribe's Canyon
+Location: Northwest of the Living Forest
+Treasure: Toad
+
+The ancient Gurgans are born without sight, but with a sixth sense that 
+allows them to see the events of the future...  Head down to the basement, 
+where the last guru will give you the magic of Toad.  It will come in 
+handy for penetrating the Tower of Owen where Medusa hides.
+
+22. Argas Castle
+Location: Northeast of Living Forest
+Shops:    Revival/Healing
+Treasure:
+
+Much like Sasun castle once was, Argas is completely empty and -ripe for 
+the picking!-.  Check walls, torches, and more to find important treasure 
+and extra cash. As for the two green doors; you have to buy magic keys 
+from the keysmith in Gisahl before you can open them.  The value of the 
+treasure is far beyond the cost of the keys, however.
+
+23. Tower of Owen
+Location: Far North of Tokkle
+Treasure: Much, including the Tilving and some other neat stuff
+Enemies:  Fairly hard!! Watch out!
+Boss:     Medusa
+
+This infamous tower of medusa is a maze of clock-work and amphibians.  In 
+the center of the first wet floor is a strange drain hole.  Use Toad magic 
+to become frogs, and dive down.  Once you have surfaced, feel free to 
+switch back; its a long hike.  Eventually, you will reach a dead end.  
+However, Desh points out that one of the gears along the top wall is 
+actually a  switch.  Hit the secret switch 8 steps to the right of 
+the left wall and continue your hard hike to the top of the tower.  
+
+	For the fight with Medusa, your most powerful magic and weapon 
+attacks should do the trick.  She will just continuously cast Break, but 
+you should  be able to finish her off before your party is turned into 
+nice works of art.  After Medusa is defeated, ....well, that's an important 
+part of the storyline. You don't get to know!! ;)
+
+	Anyways, the whirl in the sea that was blocking the ship's 
+passage will be disappated when the flame that powers the Tower of Owen is
+...extinguished. (no you don't get to know how!)
+
+24. Gisahl Town
+Location: Far East Side of the World (East of Tozas)
+Shops:    Inn/Item/Magic/Revival/Keys
+Treasure:
+
+The isolated farming community of Gisahl proves to be useful.  There are 
+essential magics, scared animals, penned chocobos; even gardens of the 
+trademark Gisahl Vegetables to step on!  Make sure to purchase a dozen 
+or so keys, and head back to Argas to finish looting.
+
+25. Dwarf Cave
+Location: Northwest area of the world (Northwest of Tower of Owen)
+Shops:    Inn/Item/Armor/Weapons/Revival
+Treasure:
+Enemies:
+Boss:     The thief, Guzco (weak)
+
+According to the elves, the villanous Guzco stole one of their precious 
+magical horns. Load up and head to the left entrance; by switching to 
+toad form at the head of the pool, you will enter the cave to Guzco.
+You are once again free to switch back and improve your survival rate 
+by a large scale.
+
+Unfortunately, the treasures are pretty much worthless; unless you feel 
+like getting level ups, avoid them. The boss is the under-estimating 
+Guzco; use ice magics and weapons to defeat him.
+
+To make things worse, Guzco doesn't know when to quit, so he follows you 
+as a 2 dimensional line until you exit the cave.  Go to the display and 
+place the horn using the B button; Guzco will reappear and steal BOTH
+horns.  He then retreats to the Cave of Fire. In his home territory, he 
+powers up to become the dreadful 'Salamander'.
+
+
+26. Cave of Fire
+Location: North of the Dwarf Cave
+Treasure: Ice Sword,
+Enemies:
+Boss:     Salamander (strong)
+
+	Salamander lets you know that the horns he stole are the Horns 
+of Ice! They have the power to blow away the flames that have previously 
+been blocking the entrance to the Cave of Fire. He plans to make the 
+amazingly great powers of the Fire Crystal his own!
+
+The fire cave is a real tough place. Level up for awhile; anything under 
+lv.13 is not a good idea.  Be sure to pick up all the treasure; the ice 
+sword in particular is useful for Salamander.
+
+When you finally reach the evil Salamander, start hacking away with 
+whatever ice weapons/magic that are at your disposal.  To counteract 
+Salamander's 'Group-Fire', have your white mage cast cure 2 on the entire 
+group using the same technique as when casting size or toad.
+
+After defeating Salamander, events start to 'heat' up (pun intended).  
+The Crystal will bestow 4 new possible classes unto your Light 
+Warriors: Knight, Thief, Archer, Scholar.
+
+New Classes:            Knight, Thief, Archer, Scholar
+
+	Recommendations:
+
+	1:       Knight, Monk, Wh. Mage, Bl. Mage
+	2:       Knight, Archer, Wh. Mage, Bl.Mage
+	3:       Knight, Monk, Bl. Mage, Wh. Mage
+
+27. Dwarf Cave (Again)
+Location: Northwest area of the world (Northwest of Tower of Owen)
+Shops:
+Treasure: *Voice/*Elixir/Hero Shield/Gauntlet/Gneedle/
+	  Scholar Helm/Scholar Armor/Knight Armor/Carrot/
+	  Fenix Down/
+
+	Upon entering the cave, an exhausted man will run behind you to 
+ask for your help.  Tokkle has been attacked again!  He then dies shortly 
+after.  Ignore this grim moment and head into the main section of the 
+cave.  Talk to the stationary dwarf in the bottom right corner, and in
+gratitude for the returned horns, the dwarf will remove the boulder near 
+the revival water. Head down there and discover: The dwarf TREASURY! 
+Pick it clean!
+
+28. Tokkle Village (Revisited - Get Ambushed) 
+Location: Southwest of the Nepto Temple 
+Treasure: None. You should have already cleaned this place out!
+Enemies: Soldiers of Hyn Castle.
+
+As soon as you enter the town, a group of soldiers jumps from the foliage 
+and ambushes you.  They take you to Hyn Castle, controlled by the Death 
+Mage himself, Hyn! He orbits the in the Desert Castle of Hyn, made
+from the Mana Tree.
+
+29. Hyn Castle
+Location: Floating Fortress in the Desert
+Treasures:
+Enemies:  Lamia, Mummy,
+Boss:     The wizard Hyn
+
+	You wake up in a crowded jail cell.  The three men in the upper 
+right corner are King Argas and his aids; the others were captured from
+Tokkle.  The man to the exact left (stationary) is an undercover guard 
+and will fight you if you talk to him.
+
+Talk to all of the 'friendly' prisoners, then look at the north wall for 
+a small mousehole.  Use Size magic to enter the hole into the enemy infested 
+territory.  Switch back to full size and get ALL of the treasure; if you 
+have your way, the fortress won't be floating for long.
+
+	One point of advice; the Lamia and Mummies are very annoying 
+adversaries.  Use fire magic to deal with them quickly, but if party 
+members become confused, get your white or black mage to smack 'em.  
+Damage will be minimal and you will regain a party member.  
+		
+Hyn is a buncha bones with a flair for the dramatic, according to his 
+costume.  He apparently has the ability to 'Barrier Change', but in 
+my experience, you can forget about his abilities by hitting him
+hard the first 2 rounds with Ice 3 and weapons. If not, make sure you 
+have a Scholar in your party to Peer into his defenses (this is really 
+the one place where a Scholar's abilities can shine). Swords
+arent very effective; but you want to deal with him and his 1600 HP 
+ASAP.   
+
+
+30. The Living Forest (Revived)
+Location: Southwest of Castle Argas
+
+Once you deal with Hyn, you will automatically return here.  The faeries 
+will thank you for returning the mana tree and destroying Hyn, as well
+as a few things I cant interpret.  After this, you cannot enter the 
+forest again. Your airship is waiting at Tokkle.
+
+31. Argas Castle (Revisited) 
+Location: South of the Tower of Owen
+Shops:    Revival/Healing
+Treasure: Elixirs
+
+Walk to the top floor and speak to King Argas and his aids.  The king 
+will give you a tool he stole from the Hyn Castle that he believed was 
+used in  keeping it afloat.  Of course, you know absolutely nothing about 
+airships...but Cid does. Now take the tool, known as the Gear of Time, 
+to Cid!
+
+NOTE:  If you have a white mage at this point, switch him to the front 
+       and open the locked doors.  In one of the doors is a magician:  
+       Talk to him to get elixirs.
+
+
+32. Canaan (Revisited)
+Location: West of Bahamut Mountain.
+Shops:
+Treasure: None.  You should have got it all from this place by now!
+
+Walk to Cid's house (upper left corner) and give him the Gear of Time 
+you recieved from King Argas.  Cid is a good airship mechanic 
+(despite his nose seemingly blocking his eyesight), and will upgrade 
+your sailing ship to an airship: The 'Enterprise!'  
+
+When you walk out of town, nothing looks different.  The ship looks the 
+same.  Climb in and press the 'A' button however, and your ship will 
+sprout helicopter rotors!  Unfortunately, the enterprise can only
+land in water, and cannot go over mountains. 
+
+33. Fly off!
+Location: On the Enterprise
+Treasure: None
+Enemies:  None
+	
+	Take your new/cool Airship to travel off this floating continent 
+you have been on into an even bigger world. You can tell if you've flown 
+out if you see any clouds nearby. Just fly out to the clouds 
+and you will exit your small world and go to the huge new world
+of endless seas.
+
+34. Tozas (Revisited)
+Location: South of Forest of Recovery
+Treasure: None
+		
+	Head back and buy as many Midge Pans as possible.  These are your 
+map for the second world...unless you like zooming over water for 
+hours.  Your choice.
+
+35. Solitary Island 
+Location: Northwest of Floating Continent
+Treasure: None
+Enemies:  None
+		
+	Walk unto the wrecked ship.  A lady is injured and an old man can 
+do nothing.  Use herbs to heal the woman, Elia. You will be told of the 
+situation in this world and what has happened to Elia since the Great 
+Earthquake occurred. Most of the earth sank into the sea and all that is 
+left is the highest point of land. The old man was riding on his boat 
+when the earthquake came, and thus was saved. He found Elia clinging to 
+a piece of driftwood.  (Hey, I didn't know Waterworld copied Final 
+Fantasy IIIj!! hehe).  She wants you to take her to the Temple of Water 
+so that she can get the shard of the Water Crystal that is there and give 
+its remaining energy back to the Crystal to try to reawaken the 
+Crystal's powers. 
+
+36. Water Temple 
+Location: Southwest of Floating Continent
+Treasure: None
+Enemies:  None
+		
+	Pick up the Crystal Shard. The two pools of water are healing 
+and revival ponds, respectively.
+
+37. Cave of Water
+Location: Northeast of Water Temple
+Treasure:
+Enemies: lots!!
+
+	When you reach the sealed door (very early in the cave), Elia 
+will kneel and pray something to open door. Proceed to find the 
+Water Crystal. Elia gives the light (power of hope) left in the
+Crystal Shard back to the Crystal of Water. It works! Unfortunately,
+Kraken crashes the party, and kills Elia.  Make sure you
+do the same to Kraken. He has 1950 HP.
+	
+	Now, another earthquake begins! The cave begins to collapse, and 
+the party gets in a tussle.  'How can you leave Elia!!' complains one of 
+the party members. But, Kraken's Cursed Arrow has already taken her life.  
+The party is knocked unconscious as the power of water ressurrects the  
+second world from the depths of the sea! 
+
+New Classes:    Karate Master, Viking, Paladin, Taoist, Caller, Bard, 
+		Dragoon
+
+		Recommendations:
+
+	1:        Knight, Karate Master, Wh. Mage, Bl. Mage
+	2:       *Knight, Karate Master, Bl. Mage, Wh. Mage
+		  (Uses Dragoon for Salonia temporarily)
+
+38. The Town of Water, Amur & Sewers
+Location: Southwest of Water Temple
+Treasure:
+Enemies:
+	
+	You wake up the Amur Inn. Some people found you unconscious in 
+the Temple of Water after the earth reappeared from the sea! And you hear 
+the terrible news that your airship has been chained up by Goldor who 
+lives to the southeast of Amur across the Bottomless Swamp. Trying to 
+cross the Bottomless Swamp without some special footwear is suicidal! 
+Meet the 4 old men.
+
+
+The problem of the weird old men can be solved however.  For some reason, 
+their magic shoes have been taken.  Talk to the man whose house you meet 
+them at, then stock up for a sewer journey, via the little waterfall in the 
+bottom right quarter.  Venture through, save the quadruplets from a bunch 
+of Goblins (Imps) (One shot of fire1 will take care of them all at once).  
+Eventually, you will see a strange old hag, named Delila. You will jump 
+out of the way of several explosive (?) shoe tosses before the quadruplets 
+come and grab a pair.
+
+	Inexplicably, the quadruplets are ecstatic and you 
+automatically leave the sewer.  Talk to them again to borrow the shoes,
+and leave to Goldor's Mansion.
+
+39. Goldor's Mansion
+
+Location: Southeast of Amur
+Treasure:
+Enemies:
+		
+NOTE:  Without the shoes on loan from the 4 Old Men,
+       (automatically used...) you can't cross the swamp
+       without dying.
+
+HINT:   Notice how the merchants in Amur had a lot
+	of thief related weapons?  Well, if you dont have
+	keys, you will notice the conspiracy in action.
+	Put a thief in the group unless you have some keys!
+
+	This is the SECOND place where those magic keys come in
+handy.  Go straight up, ignoring the doors, and go all the way around to 
+pick up the treasure.  Among other things, you get 11 weak swords that 
+are worth a pretty penny....because they are gold plated!
+
+Head back down and take the upper right door.  Use a magic key to enter.  
+If you look closely, a brick on the bottom left wall is different: 
+Walk through it.  
+
+Along the way are many secrets; including one precarious area where the 
+path that loops down looks completely unneccessary...until you check the 
+walls!
+
+The Boss of this level protects another Crystal.  Be careful, this boss 
+is TOUGH.  He is strong against Ice and Lit, and Fire is completely 
+ineffective.  Air works a few times, fortunately for moderate damage. 
+Attacks hit at about 50%...and not for much.  Every round, have one person 
+use healing magic or HiPotions.  Goldor will either attack 
+(under 100 damage), use element magic (300-400 damage) or 
+Ice3 (800 damage).  He has 2250 HP.
+
+	If you play it right, you can make it through some of them, for 
+the other, you must consider whether wasting a fenix down is worth it.  
+EVENTUALLY, he will be beaten; but in a moment of rage, he and the crystal
+will dissapear.  All that is left is a key.  Take it and use exit 
+(or just walk) out. There is a chocobo forest right outside for your 
+convenience.
+
+What does the key do?  It unlocks the chains to the Enterprise!  Luckily, 
+the airship portion is also fully intact.
+
+
+40. Dastar
+
+Location: Southeast of Salonia
+Treasure:
+Enemies:  None
+		
+	This place is basically dedicated to the Bard and 
+Taoist Class.  The Bards there continually try to emulate a sacred 
+tune, but all is for not, as only the mystical Lute can produce the 
+sacred tune of awakening.
+
+41. Leprit
+
+Location: Northwest of Salonia
+Treasure:
+Enemies:  None
+		
+	Caller orientated.  If you have one, this is the best place to 
+visit to get up to date on magic, weapons, and armor.
+
+
+42. The Kingdom of Salonia
+
+Location: Large walled-in Castle and Town.
+Treasure:
+Enemies:
+
+	Fly the enterprise over the Kingdom of Salonia (its a very
+large enclosed town area with a castle smack in the center).  If you 
+fly around the castle, cannonballs will start firing!  Unfortunately, 
+they fire enough to gun you down.  Say goodbye to the trusty Enterprise,
+because like many a Star Trek Film,  "She just canno' go any farther captain."
+
+Luckily (?!?!?!?) you will land in between the two armies that shot you down.  
+Apparently each group thought you belonged to the other.  Ignore them 
+(and the weird music) for now, and visit the 4 sections of the city.
+
+Section 1 (SW) highlights:  
+
+		This place has not much of use except
+	for the appearance of another classic FF item: 
+	The Fat Chocobo!  Talk to the student to make 
+	him appear.  Fat Chocobo swallows your items 
+	(stores them) so you can free up item spaces.  
+	Just visit him again later to retrieve.
+
+Section 2 (NW) highlights:  
+
+		One weapon shop (obscure), an inn, and 
+	some more locked shops.  The Magic Key doesnt work 
+	here.  However, this place is a required visit.
+
+	If you talk to the the Sages, one will point you 
+	to the Punk Bar.  Enter, and you will find 4 punks 
+	trying to beat up a well dressed kid. Automatically
+	you will give them their just desserts!
+
+	They are just 4 simple mini golden warriors and 
+	are easily defeated.  The boy is actually Prince 
+	Alus of Salonia.  He will join your party and give 
+	you the authority necessary to enter the castle.     
+			
+Section 3 (NE) highlights:  
+
+		Another Inn.  The bookshop and magic
+		shops are locked.
+
+Section 4 (SE) highlights:  
+	
+		The only open building is a tower in
+	the middle of town. It is chock full of enemies.  
+	Walk through the winding secret passageways of 
+	the first floor, and climb the tower to take in 
+	some goodies, including sets of dragon armor!
+
+43. Castle Salonia
+
+Location: Middle of Salonia
+Treasure:
+Enemies:  None
+
+	Enter the castle and you will be automatically escorted to the 
+prince's chambers.  You will wake up once and talk with the prince, but 
+the second time, the King rushes in with a knife drawn!! He attacks Alus! 
+Then, when the King stalls in his murder of the Prince, the Retainer, 
+Gigameth, enters! It turns out he has been controlling the King for quite 
+some time.  That is what was making the King act so strangely! The poor 
+King, who has been under another's control for so long, would rather die 
+by his own hand than take the life of his beloved son. So, the King stabs 
+himself with the knife. Gigameth becomes EXTREMELY angry and screams a few 
+not-very-nice (;)) things at the party, and transforms into the great 
+Garuda! Get ready for one of the hardest fights of your life!!
+
+Garuda is no slouch.  Every round he uses 'Kaminari' (Thunder), a lightning 
+attack that hits EVERYONE for 300-400 hp damage each round.  On the good 
+side, he is weak to Wind.  If you have a Dragoon (which explains all the 
+dragoon treasure from the 4 towers), his wind spear and jump command 
+will prove to be helpful.
+
+My advice?  Have a White Mage cast Cure2 EVERY round, including the first 
+one.  Have at least 2 heavy fighters (in my case a fighter + Monk.. yours 
+may differ) and have them fire away every round.  Your fourth party member 
+in most cases is a useless black mage.  Ice3 is almost always paltry...so 
+get him curing your fighters with hipotions every round.  Eventually,
+cure2 will run out, so have the 4th member use an elixir on your white 
+mage.  If youre lucky, you will only lose 1 character at that point.  
+At level 26,I managed to come out of the battle alive (5th try)
+with only my Monk and White Mage.  The phoenix, Garuda, has 5000 HP.
+
+After Garuda dies, the King dies as well.  You and the Prince have a moment 
+of silence before Alus resolves that he will be strong and follow in his 
+father's footsteps as King of Salonia! 
+
+Before you leave the castle, talk around.  The Scholars, especially, are 
+handy.  They are so sorry about the Enterprise, that they build you 
+something better: The Nautilus!!!!  The Nautilus operates like your
+first airship in that it only lands in grass and cant cross mountains...
+but its about 3x faster than anything else.
+
+No, you're not done yet!  Head back to towns 1-4 for open shops full of 
+goodies like White/Black mage armor and the next level of spells. 
+(cure 3 anyone?)
+	
+
+
+
+44. Une's Shrine
+Location: Salonia Continent.
+
+		Visit the Guardian of the World of Dreams, Une's, 
+cave and talk to the bird, Oumu. Une is in a deep slumber. Nothing 
+will happen...yet. =) 
+
+
+45. Dorga's House
+
+Location: Southern Continent
+Treasure:
+Enemies:
+
+	You enter the weird shrine when suddenly...several large armed 
+furry creatures gang up on you.  Luckily, their leader, a dark cloaked 
+man, waves them off.  Those furry creatures are actually MOOGLES!  
+Contrary to popular belief, FF3j is the first appearance of those
+loveable winged teddies!
+
+The leader, Dorga, joins your group, and now the moogles are your best 
+of friends.  Head down to their magic shop and fill up on goodies!
+
+
+46. Mahoujin Cave
+
+Location: Hidden in Dorga's House
+Treasure:
+Enemies:
+
+	Oh boy...another midget cave!  This one is located in Dorga's; 
+touch the torch.  If you can make it through this tough place, you will 
+eventually reach a place where Dorga explains that he can transform the 
+Nautilus into a submarine ship that can take you to the undersea. He 
+chants an ancient spell on the Nautilus and disappears.  Luckily, you then 
+are warped back to the entrance of his home. The Nautilus is now both an 
+airship and a submarine!
+
+47. Salonia Basement
+
+Location: South of East Salonia
+Treasure:
+Enemies:
+		This one is located south in the water below town 4.
+Make sure you have at least 10 magic keys.  There is loads of important 
+treasure to pick up, ending in a battle with Odin!
+
+Odin is one difficult boss!  He uses a powerful multi slice attack.  Use 
+Cure3 on the party each round, and make sure to nail him with Fire3...he 
+is very weak to it.  If you win, you gain his call magic spell.
+
+48.  The Temple of Time
+
+Location:  Circular Bay at bottom of Salonia Continent
+Treasures: Noah's Lute         LamiaScale         Protect Ring x2 etc.
+
+This one is located in the bay at the south of the continent with Une's 
+Shrine.  Once again, load up on keys.  There are fairly strong enemies,
+but no bosses.  Lots of treasure including a musical instrument that 
+supposedly wakes up the unwakeable.  They call it...Noah's Lute!
+
+49.  Dorga's Village
+
+Location: Southeast of Dorga's House
+Treasure: None
+Enemies:  None
+
+	On the continent with Dorga's House is a small completely enclosed 
+town.  While the airship can't go above the mountains, if you submerse 
+near the town, you will notice some discolored mountains that
+you can go through.  Resurface at the end of the path!
+
+Except for the greeting mage, who explains the town, every black mage is 
+a magic merchant.  You can buy anything from Level 2 to Level 7 magic!  
+Stock up if you have the cash!
+
+50.  Undersea Cave:
+
+Location: Near Goldor's Mansion
+Treasure:       Tomahawk Axe            Ancient Sword
+		Defender Sword          Diamond Shield x2
+		Diamond Armor           Loki's Harp
+		Fenix Down              Diamond Glove
+		Elixir                  Aegis Shield    -> Fight Bone Dragon
+		Diamond Helmet          Triton Hammer   -> Fight Mouth Man
+		BlackHole               Reflect Armor   -> Fight 8 Claw
+		Bacchus' Wine           Blood Spear     -> Fight Red Dragon
+		Diamond Helmet
+		BlackHole
+		Bacchus' Wine
+
+		This one is located under the water by the island 
+devoid of life east of the the golden house.
+
+	THIS PLACE ROCKS!  If you ever wanted a place to loot, this place 
+is it!  I had to visit the Fat Chocobo TWICE just to get everything.  What 
+you don't want is still worth thousands of dollars! Be greedy!  Be VERY
+greedy!
+
+
+51. Une's Shrine. (Revisited)
+
+Location: Near Salonia
+Treasure: None
+Enemies:  None
+
+		Head back here with the Lute.  Activate it in front
+of Une's bed...and she wakes up and goes nuts, jumping about!  Then 
+she mumbles something about a mystical ship, grabs her parrot, and 
+joins your party.  Her name is Une, Guardian of the World of Dreams.
+
+52. Ancient Ruins Excavation
+
+Location: Near the cave where Une slept
+Treasure:
+Enemies:
+		Be prepared, for this is one of the hardest 
+levels in the Final Fantasy Series.  Walk up to the rocks blocking the 
+way and Une will use her skills to remove them.
+
+The next floor is simple; the Scholars (real airship nuts who are part 
+of the group that built the Nautilus) have opened 3 shops to help you.  
+However; if you have taken the treasures from the other caves, only
+the Inn is useful.
+
+		Now begins the trek.  3 rules of thumb:
+
+	1.The Blue Spore Enemies will almost always reproduce
+	  by themselves.  Hit them hard and fast!
+
+	2.The Green Spore Enemies only reproduce if you hit them
+	  with a weapon, and the damage does not kill them.  
+	  Be careful; both spores can hit anywhere from 1-1500 damage.
+
+	3.Anything Green basically follows the Green Spore rule.
+
+		It can get extremely frustrating as they duplicate;
+		but if you make sure your strong weapon men can kill
+		in one hit, and you only use elemental magic on
+		one enemy at a time, you can make it.  Whats so good
+		to go through all this hell?
+
+
+	The airship: Invincible
+
+	While it is slow compared to the speedy Nautilus, it makes up for 
+it in many ways.  The Invincible has Weapon, Armor, Magic, and Item Vending
+Machines, a free Inn, and a Fat Chocobo!  
+			
+If you press the A button, the ship can raise itself over mountains for 
+short periods of time.  If you have to fight while on the airship, it has 
+a cannon that hits all enemies once before the round begins. Exit via the 
+ladder, control the ship via the control wheel.
+
+53. Fargabaad
+
+Location: Southwest of Salonia
+Treasure:
+Enemies:
+
+	This place is located by the Castle.  Use the airship jump ability 
+to reach it.  Everything is paladin focused; from the weapons to the low 
+level magic.  There is a hidden sage who challenges you under the waterfall, 
+and there is a few treasures in the cave; but beware, the duplicating 
+enemies are back.  Why do you want to go here?  Because the only
+weapon in the game that does NOT duplicate those enemies is the Katana, and 
+only the paladin uses it.  Greatly consider promoting your knight to this 
+class!
+
+54. Cave of the Leviathan
+
+Location: North of the Living Forest
+Treasure: 
+
+Fenixdwn        God'sRage       EarthDrum       Iceblast        
+Hipotion x3     Elixir          WScent          Aegis Shield    
+LamiaScale      Bacchus' Wine   Shell           Impyawn         
+LilithKiss      Thor Hammer     Blkhole         Reflect Armor   Musk
+
+	Above the Living Forest is a weird lake with a strange creature 
+swimming in it.  Use the airship jump technique to get near the water, then 
+get out and swim to the creature.  You will submerse into an underwater 
+maze.  There is a lot of treasure, secret pathways, and if you have somebody 
+who can cast call magic, you will fight the enormous Leviathan at the end.
+
+		Leviathan       u/Wave, Bite    5700 GP         2C
+		[7000 HP]                       1250 EXP
+
+55. Cave of Bahamut
+		
+Location: South of the Midget Village
+Treasure: 
+Enemies:
+
+	Back in the first world, surrounded by mountains, near the viking 
+hideout and midget forest.  This is one of the places you could only
+see and not go to...until now.
+
+	Use Airship jump again.  The enemies are still pretty tough, but 
+they dont duplicate!  This cave is basically full of items like Elixirs,
+fenixdwn's, and Godsrage. If you have somebody who can use call magic, 
+prepare to fight the infamous Bahamut.
+
+		Bahamut         u/Mega Flare    3500 GP         12C
+		[7500 HP]       s/Meteor        700 EXP
+
+56. Cave of Darkness
+
+Location: North of the Water Cave.
+Treasure: 
+Enemies:  Replicators
+
+		Ok, if you dont have a Paladin or lots of level 99
+warriors, youre not going to make it through here.  I would rather have 
+a paladin; it takes less time.
+
+Did I say the Ancient Ruins cave was tough?  Think again.  This place makes 
+it look like chrono trigger spittle.
+
+		Floor 1:Talk to the Paladin and continue to the
+			stairs.  Walk straight through the hidden
+			passage.
+
+		Floor 2:The first secret way has treasure.  The
+			long passage leads on.  After that,
+			take the bottom right secret at the
+			end of the second passage.
+
+		Floor 3:Walk past the first two secrets and take
+			the first one straight down.  Then
+			grab the treasure and take the right secret,
+			take the bottom right secret in the first
+			zigzag, and the middle secret of the 3 
+			lined along the left wall after the next
+			secret.
+
+		Floor 4:The Bottom secret on the right wall
+			at the end of the passage has a Genji
+			Shield. The top passage leads on.
+
+		Floor 5:The immediate right secret leads to
+			a Genji Helmet.  The bottom secret to
+			the left, followed by the right 
+			secret leads on.
+
+		Floor 6:Immediatedly south is the secret 
+			leading to Genji Armor.  After that,
+			cross the bridge, and ignore the first
+			2 secrets.  Take the right wall secret
+			when you come upon the last 3.  This will
+			lead you to the horn; or rather, the
+			pesky paladin who challenges you.  Start 
+			whacking away and make sure to use some 
+			quake magic.  After the battle, teleport
+			out.
+
+57. Statues of the Quest                     
+
+Location: North of Amur
+Treasure: None.
+Enemies:  None.
+
+	If you've tried to get past these statues before, you know what 
+happens.  The only way to get past them is to have the 4 elemental fangs, 
+which, if you've been following the walkthrough, you should have by now.
+
+
+
+58. Labyrinth of the Ancients & the Crystal Tower
+
+Location: Several Airship jumps from the Statues of the Quest
+Treasure:       Musk            Crystal Glove           Crystal Armor
+		Crystal Shield  LilithKiss              Crystal Helmet
+		Axe ?>?         Fenixdwn                Break Sword
+		Total rod (40% chance of petr kill)     Holy Arrow
+		Protect Ring    Hell Claw (40% chance of poison)
+		Elixir
+
+	When you first came upon the second world, you may have flown over 
+a small tower sticking out of the water.  Well, that tower is here, and its 
+the focal point for the end of the game.  Walk into the complex and straight 
+up through the doorway.  Although the Crystal of Earth sits there waiting, a 
+familiar person gangs up on you. (He's a palette swap of the paladin boss
+from moments before).  Beat him; fire3 is more effective than quake for this 
+battle.  Talk to the crystal to gain 3 more classes!
+
+New Classes:    Black Wizard/White Wizard/Summoner
+
+		Recommendations: 
+
+	1:          Paladin/Karate Master/White Wizard/Black Wizard
+	2:          Knight/Paladin/Black Wizard/White Wizard
+
+59. Return to Dorga's House
+
+Location:       South Island Valley near merchant magicians
+Treasure:       Curtain of Light x4      20000 GP x2
+Enemies:
+
+	As you enter Dorga's House, you hear Dorga and Une calling you!  
+	You will automatically enter a maze. Search for treasure 
+	(you cant reenter) and look for Dorga and Une by the great 
+	waterfall.  As you enter the spot where they are, they challenge 
+	you to a fight....for the fate of the world!  The energy that 
+	their battle with you would create is enough to let you continue 
+	on your quest. The party adamantly refuses to kill their friends, 
+	but Dorga and Une give them no choice. Dorga attacks!
+
+		Dorga           u/Quake, Drain
+		[4500 HP]
+		
+		Une             u/Whirl
+		[4500 HP]
+
+		If you can beat both, they will slowly die.
+		Talk to each person to gain a key. 
+		(These are the keys needed to continue your quest!)
+
+60. The Forbidden Land Eureka
+
+Location: Accessed from first floor of Crystal Tower.
+Treasure: As Described.
+Enemies:  Ninja, Barbarians
+
+	The infamous Crystal Tower is your next stop.
+	Unfortunately, it means walking through the Labyrinth of 
+	Ancients again, so memorize your way through.
+
+	On the first floor of the Tower is a door directly in
+	front of the entrance.  If you enter it, a mysterious
+	force pushes you back from going too far.  Press the 
+	B button and use the Eureka Key obtained from Dorga.  
+	You will automatically enter the Forbidden Land of 
+	Eureka.  Loot everything...the best weapons in the 
+	game can be found here.
+
+	Floor 1:  Treasures:   -BmbRArm         -Elixir         
+			       -God'sRage       -Iceblast
+
+	Floor 2:  Treasures:   -BmbRArm         -?????
+			       -God'sRage       -Iceblast
+			       -Fenixdwn
+
+	Floor 3:  Treasures:   -Shuriken star x2
+			       -Elixir          -Fenixdwn
+
+	Floor 4:  Here begins the battle for truely good items.  Each
+		  item you see is guarded by an enemy.
+		  n: no effect          s:strong against
+		  l: opposite effect    w:weak against
+		  u: uses (damage in hp)
+
+	Boss:     Neo Hyn       =       n/Quake         l/fire, ice
+		  [7040 HP]             3450 GP         1050 EXP
+		  Treasure: Decimator Boomerang
+	      
+
+	Floor 5:  Treasures:   -Fenixdwn
+
+	Boss:     Pink Assassin =       u/Party Stun
+		  [9000 HP]             5000 GP         1200 EXP
+		  Treasure: Masamune (katana)
+
+	Floor 6:  Treasures:   -none
+		  Note: After beating the Barbarian, walk back to 
+			the stairway and cross the broken bridge.
+			The missing pieces are illusions.
+
+	Boss:     Red Barbarian =       s/claw, lit     u/Fists (800-1200)
+		  [12000 HP]            5200 GP         1225 EXP
+		  Treasure: Excalibur (sword)
+
+	Floor 7:  Treasures:   -none
+
+	Boss:     Multi-Part Wolf Wiz.  u/Flare         w/Fire Magic
+		  [10000 HP]            5400 GP         1733 EXP
+		  Treasure: Eldest (Staff)
+
+	Boss:     Giant                 unknown
+		  [12000 HP]
+
+	Upon entering the door in Floor 7, you will come upon an
+	enemy free haven.  To the left and right are healing and 
+	revival ponds; to the north is 2 sages.  One informs you
+	of something; the other sells magic.  Level 8 magic.  About
+	time!!! If you also touch the indent in the wall between
+	the two sages, you will open a secret passageway leading
+	to a weapons/armor sage.  By talking to the second sage, you
+	will gain the final two classes.  Also, if you have defeated
+	Odin, Leviathan, or Bahamut, you can buy copies of their magic
+	here.
+
+New Classes:    Sage, Ninja
+
+		Recommendations:
+
+	1:          *Paladin/Sage/White Wizard/Black Wizard
+		    (Change to Ninja if you can afford Shuriken)
+	2:          Ninja/Ninja/Sage/Sage
+	
+	Magic (Black)   Cost (GP)       Magic (White)   Cost (GP)
+	---------------------------------------------------------
+	Flare           60000           Gale            60000
+	Death           60000           Araise [Life 2] 60000
+	Meteo           60000           Holy            60000
+
+	Weapons         Cost (GP)       Armor           Cost (GP)
+	---------------------------------------------------------
+	Shuriken Dart   65500           Crystal Shield  50000
+					Crystal Armor   65000
+					Crystal Glove   50000
+					Crystal Helmet  50000
+
+61.     Crystal Tower Continued
+
+Location: Upper Crystal Tower.
+Treasure: 
+Enemies:  Fire Breathers, Mucus, Magicians
+
+	Get ready!  Be fully stocked up before making the trip.  
+	Eventually, you will reach a strange room filled with
+	Dragon Statues.  There is a mirror between them.  Walk up
+	to the mirror, and an Onionkid will look at you; perhaps
+	an image of your past.  As the dragons begin to stir, the
+	infamous Dorga will appear out of nowhere and call your 
+	friends to the Statues.  
+
+	Amazingly enough, Desh is one of them.  He returns from
+	the burning core of the Owen Tower. Dorga is one good magician!
+	With your friends blocking the dragons' curse, 
+	(Princess Sara, Prince (now King) Alus, one of the 
+	Old Men, and Desh), the mirror image will dissapear 
+	and you will warp to the final floor of the Crystal Tower.  
+	There is no enemies; only the Demon King Zande stands in your way.
+
+	Demon King Zande          u/Meteor        s/Holy, Claws
+	[21000 HP]                  Peep          n/Gale
+				    Quake         w/Flare
+				    Fists [1500]
+
+
+	Thought that was the end? Think again!  A mysterious light
+	is up ahead.  As you walk to it....a monster of epic proportions
+	arrives!  I suggest not putting up a fight...She is invincible
+	to everything you throw at her.  As soon as she finishes you off,
+	your friends will return to you, and give you back your lives,
+	HP, and MP.  You will then walk back to the light to find out 
+	where the Evil Being has gone!
+
+62.     Final Maze
+
+Location: Top of Crystal Tower 
+Treasure: Ribbon Helmet (x4)
+Enemies:  Red Ninja, Yellow Dragon, Barbarian
+
+	The game difficulty increases yet again; for there are no save
+	spots, healing or revial ponds...or any other luxury.  Your items
+	are all that keeps you alive...and there is no escape.
+
+	You are on a dimensional plane of mystery; stars zoom underneath
+	you. There are 5 paths; 1 forward and 4 to their respective 
+	corners.  If you wish to live; walk one on of the corner routes.
+
+	On each path there are two constants: A treasure chest and
+	a Dark Crystal Temple.  Each chest contains a Ribbon Helmet;
+	but you must fight Neo-Zande each time.  As for the 
+	Temples....they contain 4 of the toughest bosses ever devised!
+
+
+
+
+Upper Left Path:        This is a maze of secret passageways; the correct 
+			route is often the farthest from the needed 
+			destination.
+
+			Boss:   Death Hound     23000 HP
+						6400 G 18C 1500 EXP
+
+Lower Left Path:        This section has a series of vertical passages.
+			You can walk through the bottom of any of them,
+			and there are 2 secret passages leading to the
+			exit and treasure chest.
+
+			Boss:   Plant Fiend     32000 HP
+						7000 G 19C 2606 EXP
+
+Upper Right Path:       This is a fairly easy maze, take the top route
+			for access to the exit and pathway to the chest.
+
+			Boss:   Yellow Dragon   29000 HP
+						6800 G 19C 1750 EXP
+						U/Bite [7500+]
+
+Lower Right Path:       This is a long winding path if you dont keep
+			a sharp eye.  If you look at the other side
+			of the wall to your right, there should be an
+			occasional marked secret passage.  Line up with
+			it and you can walk through the wall.
+
+			Boss:   Uni-Eye         35000 HP
+						7200 G 21C 2250 EXP
+	
+Upper Middle Path:      This room is a maze.  Certain segments of
+			bridge are completely invisible, and as always
+			its almost always the piece farthest from that
+			leads you to the stairway at the top.
+
+Final Floor:            Load everybody up.  There are no enemies left except
+			for the Cloud of Darkness, in the final (and 
+			potentially toughest) battle.
+
+			If you managed to save the 4 Dark Warriors, who 
+			were in the 4 Dark Crystals, they will reappear 
+			and attack the Cloud of Darkness one by one.  This 
+			will weaken her so your magic and weapons will work.
+
+63.  The Cloud of Darkness
+
+Location: End of Final Maze
+
+	**************************************************************
+	&               Final Battle: The Cloud of Darkness          &
+	**************************************************************
+	&       HP: 65000       MP: Infinite    Rewards: None        &
+	&------------------------------------------------------------&
+	&       Boss Attack:    Flare Wave (multi)                   &
+	&                       [Hits allies for around 2000 HP]     &   
+	&------------------------------------------------------------&
+	&       Weak Against:   -Fast- accelerated Weapons           &
+	&                       -Bahamut- Call Magic                 &
+	&------------------------------------------------------------&
+	&               Battle/Survival Strategies:                  &
+	&------------------------------------------------------------&
+	&       -Have your White Wizard use -Fast- to accelerate     &
+	&        your weapon users. In the case of Paladins, this    &
+	&        adds up to 22-30 hits for a total of 4000 damage.   &
+	&                                                            &
+	&       -Callers should use Bahamut each and every round.    &
+	&                                                            &
+	&       -Ninja's should be throwing Shuriken each round.     &
+	&        The damage quickly becomes the same or better       &
+	&        as an accelerated Paladin.                          &
+	&                                                            &
+	&        -Black Wizards should stick to Flare; Meteor is not &
+	&         as effective. If the rest of your party is hurting,&
+	&         have your Black Wizard use Elixirs.                &
+	&                                                            &
+	&        -Sages should be fully equipped, with Bahamut and   &
+	&         Cure 4 being a neccessary minimum.  Have them use  &
+	&         Bahamut when possible, and Cure4 to help your      &
+	&         White Wizard in recovering from Flare Wave.        &
+	&                                                            &
+	&        -All weapon fighters should be accelerated with     &
+	&         fast, and use doubled up weapons:                  &
+	&         (Knights: Excalibur/Break)                         &
+	&         (Karate Master: Cat Claw/Dragon Claw)              &
+	&         (Ninja:  Same as KM or Shuriken x2)                &
+	&                                                            &
+	&------------------------------------------------------------&                                                            
+								     
+
+64.     Finale!         [Ending/Spoiler]
+
+	Upon beating the Cloud of Darkness, and watching her slowly
+	melt away, you will return to the Crystal Tower where your
+	friends await.  You will hurry back to the Invincible and
+	fly away.  
+
+	Now, you will drop off your friends.
+
+	-The old man is returned to his group in Amur.
+	-King Alus is returned to his Castle of Salonia.
+	-Cid and Desh are returned to the family in Canaan. 
+	 Sarina (the formerly sick girl) and Desh are finally reunited.       
+  
+	    Now, the party and Sara are alone, and finally return through 
+	the Valley of the Nelb into the zone surrouned by the Palmeni 
+	Mountains...the Kingdom of Sasun. But, Sara doesn't want to leave 
+	her friends the Light Warriors just yet...she whines, and they are
+	convinced to go back to Ul instead of taking Princess Sara home 
+	to Sasun Castle. When you arrive at Ul, Sara urges the party 
+	to go up to the circle of their fellow townspeople who are 
+	waiting eagerly.
+
+	Suddenly, the ground begins to shake!  Everyone looks to the
+	Sky north of Ul...to the Altar Cave...
+
+	The brilliant light of the Wind Crystal shines, as it comes back 
+	from underground, returning the power of light to the people of 
+	the world.  The overhead screen shows the lush color returning 
+	to the landscape. Now, it is finally dawn again.
+
+	The screen cuts to space, with a poem: (roughly translated)
+
+	"However, something was missing from life.
+	 The light and darkness split apart
+	 Holding the light, they made the world shine
+	 using the force called "hope".
+	 Time Teaches All; Dream, Despair, Love,
+	 However, If they do not accept,
+	 If they never look back,
+	 They must not cry"
+
+
+	Stars begin to pass by at increasing speeds until it all blacks
+	out.
+
+	Finally, the credits begin to display.  Each credit is
+	accompanied by each class in the game, one by one.  
+
+	As almost always in FF...the game ends with a star field and
+	and the words....THE END.
+	
+	Congratulations on beating Final Fantasy III!
+----------------------------------------------------------------------------
+<End of Walkthrough & FAQ>
+
+

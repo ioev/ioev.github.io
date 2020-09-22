@@ -1,0 +1,241 @@
+How to Kill the Bosses
+of
+FF3 japanese 
+v2.0
+by Amar Kishan
+
+	I wrote this guide after I beat the game, I didn't steal from somewhere.  
+If you wish to steal from this walkthrough, contact me first at: 
+amar_kishan@hotmail.com I believe that FF3j should've been released in the US, 
+but it wasn't.  I'm not responsible if you lose somewhere, so don't blame me.   
+If you wish to put this on your page, contact me first.  PS: If you didn't know, 
+this is for NES.  On with the guide....
+
+--------------------------------------------------------------------------------
+--------------
+				   	Version History
+--------------------------------------------------------------------------------
+--------------
+1.0-First Version
+2.0-Translated some names
+--------------------------------------------------------------------------------
+--------------
+				   	How to help
+--------------------------------------------------------------------------------
+--------------
+Send in the correct names for anything listed here.  You'll be recognized.
+--------------------------------------------------------------------------------
+--------------
+					Format
+--------------------------------------------------------------------------------
+--------------
+[Name]: [Location]				[The party I used to kill it]
+[Hit Points] [Weak VS:]  [Strong VS:]  [No Effect:]  [Uses:]  [Reward:]
+[Strategy: A quick way to kill this guy!]
+--------------------------------------------------------------------------------
+--------------						        Abbreviations
+--------------------------------------------------------------------------------
+--------------
+HF: Heavy fighters (Fighters, Knights, Monks, Dragoons, etc.)
+BM: Black Mage  WM: White Mage
+BW: Black Wizard WW: White Wizard
+N: Ninja  S: Sage
+PhA: Physical Attack
+--------------------------------------------------------------------------------
+--------------
+				   Bossess
+--------------------------------------------------------------------------------
+--------------
+Land Turtle: Altar Cave			Fighter/Monk/WM/BM
+120 Hp  Weak VS: Attacks  Reward: Access to the Wind Crystal
+Strategy: Attack him, healing only when neccesary. Lv.4+ is safe.
+
+Jinn: Cave of the Seal				Fighter/Monk/WM/BM
+480 Hp  Weak VS: Ice Strong VS: Fire Uses: Attacks, Fire Magic 
+Strategy: HF: Attack him. WM: Cure (All or Single) or use Ice items
+BM: Cast Ice or use Ice items
+
+Bahamut: Bahamut's Nest			Fighter/Monk/WM/BM
+60,000 Hp killing has no effect
+Strategy: RUN! RUN FAST!!
+
+Nepto: Bay of Nepto (South of the Nepto Shrine) Fighter/Monk/WM/BM
+60,000 Hp killing has no effect
+Strategy: Hit reset.  I hope you saved recently.
+
+Big Rat: Nepto Shrine 			Fighter/Monk/WM/BM
+450 Hp Weak VS: Ice 2, Air Uses: Lv.2 elemental magic Reward: Nepto's Right Eye
+Strategy:  This is TOUGH.  This boss is fought in midget form, so put everyone 
+in the back row.  You can either have a HF/HF/WM/BM party, with HF assisting the 
+WM in healing, or change your HF to either Black Mages or White Mages.  To have 
+good BM magic, you would have had to thought ahead at Canaan.  But you can by 
+Air at Tozas for your WM, so seriously consider it.  Lv.11+ is a good bet.
+
+Medusa: Tower of Owen			Fighter/Monk/WM/BM
+980 Hp Weak VS: Fire Magic Uses: Break, PhA
+Srategy:  HF: Attack WM:Heal the party, use soft  BM: High end Fire magic, soft 
+potions
+Hopefully, Medusa's Break spell will fail.  In that case, she's easy.
+
+Guzco: Dwarven Cave				Fighter/Monk/WM/BM
+1400 Hp Weak VS: Ice Magic Uses: PhA, Fire Magic  Reward:DwfHorn
+Strategy: HF: Attack WM: Heal BM: Ice 3  Guzco should fall easily enough this 
+way.
+
+Salamander: Cave of Fire			Fighter/Monk/WM/BM
+2100 Hp Weak VS: Ice Magic/items/weapons Uses: Flame, PhA Reward: Acess to the 
+Fire Crystal
+Strategy: This time around, Guzco isn't so easy.  Fighters:  Be sure that 
+Salamand is NOT equipped, and the Freeze sword is!  Freeze and Serpent were what  
+I used.  Second HF: Attack or use Icy Wind, Ice Blast WM: Cure 2 on everyone to 
+counter Flame BM:   Ice 3
+
+Death (Wizard Hyn): Hyn's Flying Fortress   Knight/Monk/WM/BM
+1600 Hp Weak VS: variable Uses: Barrier Change, various elemental attacks, PhA
+Strategy:  I'll put it this way- you can have a Scholar to find his new 
+weakness, or kill him before he Barrier Changes (like me).  For me, he was weak 
+to Ice 3 the first few rounds.  HF: Attack WM: Cure, Attack  BM:Nail him with 
+Ice 3.  Hopefully, he'll be dead before he Barrier Changes.  If not, cast Fire 1 
+and Ice 1 (you'll have fewer casts of lit) to find his new weakness.
+
+Kraken: Cave of Water			Knight/Monk/WM/BM
+1950 Hp Weak VS: Lit  Uses: Versatile Attacks Reward: Access to the Water 
+Crystal
+Strategy: This is a tough battle.HF: Attack WM: Cure 2 (All, Single) BM: Lit 
+Magic
+If you are having trouble, Lv. up outside.  It'll pay off later :)
+
+Goldor: Goldor's Mansion			Knight/Master/WM/BM
+2250 Hp Strong VS: Ice, Lit No Effect: Fire Uses: PhA (50-150), Elemental 
+Magic(150-400), and Ice 3 (600+) Reward: Key to the Enterprise
+Strategy: See why I told you to level up earlier?  Well, you should be Lv.21+ to 
+kill him.
+HF: Attack, Jump WM: Cure 2 every round(!) BM: Ice 3 (very weak), help heal
+
+Phoenix: Salonia Castle			Dragoon/Dragoon/WM/BM
+5000 Hp Weak VS: wind attacks  Strong VS: everything else! Uses: Bolt (Lit magic 
+on all, 300-400 damage)
+Strategy: This battle is tougher than it seems.  Get two Dragoons, equip them 
+(Salonia Tower, weapon shop(?)) and go to the top floor of Salonia Tower.  Walk 
+back and forth, fighting until you are Lv.27.  Rest, buy some high potions, 
+save, and enter the Castle.  Watch the scene and fight the Phoenix. Dragoons: 
+Jump WM: Cure 2 on all every round
+BM: Use High potions to heal  either himself or the WM.  If you are lucky, each 
+Dragoon will do 1000+ damage to the Phoenix.  3 turns, he's dead.
+
+Odin: Salonia Basement			Dragoon/Dragoon/WM/BM
+7000 Hp Weak VS: Fire 3 Uses: Multi-Slice (400-600 damage, all) Reward:Odin Call 
+Spell
+Starategy: HF: attack, Jump WM: Cure 3 on all BM: Nail him with Fire 3!
+
+Hidden Sage: Fargabaad			Paladin/Dragoon/WM/BM
+1100 Hp Weak VS: various elemental magic Uses:PhA
+Strategy: Paladin:He should be fasted, with the two katanas from the cave 
+equipped. Have him attack. HF: Attack/Jump WM:Fast on Paladin, mabye the other 
+HF, and cast Cure 3-4 on all each round BM: Fire 3, Quake, then start casting 
+lower level spells.
+
+Leviathan: Leviathan's Cave			Paladin/Caller/WM/BM
+7000 Hp Weak VS: Lit 3 Uses: Wave,PhA Reward: Leviathan's call spell
+Strategy: LEVITATHAN ONLY ATTACKS IF YOU HAVE A CALLER IN YOUR PARTY.  If you 
+normally use one, your fine.  Otherwise (like me), change your weaker HF into 
+one, put him in the back row (Give him odin's spell if you have it, but you 
+don't need to). HF: Attack Caller: Use Hi-potions, best call magic you have WM: 
+Cure 3-4 on all
+BM: Lit 3
+
+Bahamut: Cave of Bahamut			Paladin/Dragoon/WM/BM
+7500 Hp  strong against: Meteo  Uses: Mega Flare (1000-2000 all) Reward: The 
+BEST call spell!!!!
+Strategy:  I highly suggest you have a fast dragoon for this one! HF: Attack 
+Dragoon: Jump
+WM: Cure 4 all BM: The best spells you got...  If you are lucky, the Dragoon 
+will jump before the Mega flare, thus safe from the damage.  For me, he was the 
+only one who survived.
+
+Paladin: Cave of Darkness			Paladin/Dragoon/WM/BM
+6500 Hp Weak VS: Quake Uses: PhA (600-1000) Reward: Wind Fang
+Strategy: HF: Attack, Jump WM: Cure 3-4 BM:Quake  Easy boss
+
+Paladin: Labyrinth of the Ancients		Paladin/Dragoon/WM/BM
+7800 Hp Weak VS: Fire 3 (more than Quake) Uses: PhA(600-1000) Reward: Earth Fang
+Strategy: HF: Attack, Jump WM: Cure 3-4 BM:Fire 3, then Quake Easier boss
+
+Dorga: Dorga's House				Paladin/Dragoon/WW/BW
+4500 Hp Weak VS: Fire 3, Quake Uses: Quake, Drain, Brk 2 Reward: Eureka Key
+Strategy: Caution: Brk 2 is HIGHLY EFFECTIVE.  Have Soft Potions ready!                 
+HF: Attack,Jump WW: Cure 3-4 all, Soft BM: Fire 3, Quake, Soft potions
+
+Une: Dorga's House				Paladin/Dragoon/WW/BW
+4500 Hp Weak VS: Fire 3 Uses: Wall, Gale,Blizzard Reward: Sylx key
+Strategy:  HF: Attack, Jump  WW: Cure 2-3-4 all, single BW: Fire 3, but be wary 
+of the round she casts wall...
+
+Neo Hyn: Eureka				Paladin/Dragoon/WW/BW
+7040 Hp Weak VS: variable No Effect: Quake Uses: Flame,PhA Reward: Full Moon
+Strategy: HF: Attack/Jump WW: Cure 3-4 all BW: For me, Lit 3 worked the first 
+few rounds...try to kill him before the Bariier Change.
+
+Pink Assassin: Eureka				Paladin/Dragoon/WW/BW
+9000 Hp Uses: Party Stun, PhA (1000) Reward: Masamune
+Strategy: Assuming only your wizards are paralyzed, just attack, jump, and heal 
+when necesarry.  Easy.
+
+Red Barbarian: Eureka				Paladin/Dragoon/WW/BW
+12000 Hp Weak VS: Fire 3 Strong VS: claws, lit Uses: PhA(700-1200)  Reward: 
+Excalibur
+Strategy: HF: Attack, Jump WW: Cure 3-4 all  BW: Fire 3
+
+Werewolf Sorcerer: Eureka			Paladin/Dragoon/WW/BW
+10000 Hp Weak VS: Fire 3 Uses:Flare, PhA Reward: Eldest
+Strategy: HF: Attack, Jump WW: Wall every one, then Cure 3-4 all BW: Fire 3
+
+Giant: Eureka					Paladin/Dragoon/WW/BW
+12000 Hp Weak VS: Fire 3 Uses: Quake, Wall, PhA Reward: Ragnarok
+Strategy: HF: Attack, Jump  WW: Cure 3-4 all  BW: Fire 3, but be wary of wall.
+
+NOTE: FROM NOW ON, I HIGHLY RECOMMEND HAVING A N/N/S/S PARTY.
+EACH SAGE SHOULD HAVE CURE 4 AND BAHAMUT, EACH NINJA-THE BEST WEAPONS, AND A 
+LARGE STOCK PILE OF SHURIKENS (44 AT LEAST).  BEFORE USING THE SYLX KEY, MAKE 
+SURE YOU HAVE EVERYTHING YOU WILL POSSIBLY NEED TO FIGHT THE TOUGHEST BATTLES OF 
+THE GAME. I WAS LV. 60 AT THIS POINT...RUNNING AROUND IN EUREKA MAKES LEVEL 
+GAINING FAST:) BEFORE FIGHTING THE FINAL BOSSES, YOU MAY WISH TO GET ALL FOUR 
+RIBBONS AND EQUIP THEM.
+
+Demon King Zande: Sylx Tower		N/N/S/S
+21000 Hp Weak VS: Flare, Bahamut Strong VS: Claws, Holy No Effect: Gale Uses: 
+Meteo (2000-4000 all), Peep, Quake (1000-2000), PhA (600-1500)
+Strategy: N: Double up on Shurikens and hurl them, each pair is 6000+ S: Cure 4, 
+Bahamut
+
+Dark Cloud: Sylx Tower		N/N/S/S
+65000 Hp- your weapons can't harm her.
+Strategy: Parry or something as she kills you.
+
+Cerberus: Dark World-Upper Left Path N/N/S/S
+23000 Hp Weak VS: Bahamut, Shurikens Uses: Bolt (600-900 all)
+Strategy: N: either regular attack or Shuriken toss S: Cure 4, Bahamut
+
+Echidna: Dark World-Lower Left Path  N/N/S/S
+32000 Hp Weak VS: Shuriken, Bahamut Uses:Quake (1000-3000), Brk 2, Meteo (2000-
+4000), Drain (700+)
+Strategy: N: regular attack, shuriken toss S: Cure 4, Bahamut
+
+Yellow Dragon: Dark World-Upper Riht Path N/N/S/S
+29000 Hp Weak VS: Bahamut, Shurikens Uses: PhA (4000-8000)
+Strategy: You want to kill this guy fast! N: double Shuriken Toss S: Cure 4 
+(mabye), Bahamut
+
+Ahriman: Dark World-Lower Right Path	 N/N/S/S
+35000 Hp Weak VS: Bahamut, Shuriken Uses: Meteo (3000-4000), Flame, Blizzard, 
+Quake
+Strategy: regular attack, shuriken toss S: Cure 4, Bahamut
+
+Dark Cloud: Dark World		N/N/S/S
+65000 Hp Weak VS: Bahamut, Shuriken Uses: Flare Wawe (1000-2000 all)
+Strategy:  Assuming you actually rescued the four Dark Warriors, this boss is 
+easy.  If you didn't, you can't hurt her. N: Shuriken Toss (Fasted if you wish) 
+S: Fast, Cure 4, Bahamut. Insanely easy, for a Final Boss!
+	
+
+

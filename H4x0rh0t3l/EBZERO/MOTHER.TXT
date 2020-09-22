@@ -1,0 +1,765 @@
+EARTHBOUND ZERO / MOTHER MINI-FAQ v0.6
+for the Nintendo Entertainment System
+by K. Megura  <kmegura@yahoo.com>
+
+ Unpublished work Copyright 1998 Kao Megura
+
+ This FAQ is for private and personal use only.  It can only be
+ reproduced electronically, and if placed on a web page or site, may be
+ altered as long as this disclaimer and the above copyright notice
+ appears in full.  This FAQ is not to be used for profitable/promotional
+ purposes; this includes being used by publishers of magazines, guides,
+ books, etc. or being incorporated into magazines, etc. in ANY way.
+ This FAQ was created and is owned by me, Kao Megura <kmegura@yahoo.com>.
+ All copyrights and trademarks are acknowledged that are not specifically
+ mentioned in this FAQ.  Please give credit where it is due.
+
+The EarthBound / Mother series is (c) Shigesato Itoi and (c) Nintendo of
+Japan, Nintendo of America.  All rights reserved.
+
+
+This FAQ can be found at:
+-------------------------------------------------------------------------
+Kao Megura's Home Page              www.geocities.com/tokyo/pagoda/4610
+GameFAQs                                               www.gamefaqs.com
+
+
+--------
+CONTENTS
+--------
+ - About the Game
+ - How To Play
+ - Basic Walkthrough
+ - Cheats and Tricks
+ - Psychic Power Chart
+ - Shopping Chart
+ - Miscellaneous
+
+
+=========================================================================
+ABOUT THE GAME
+=========================================================================
+
+This game's actual title is 'EarthBound', but for sake of clarity, most
+people are referring to it as 'EarthBound Zero'.  There are several
+versions of this game on the Internet--the one I'm using includes a
+patch to prevent the 'illegal copy' screen that appears in various
+parts of the game.  I'd like to thank Demi and all the others who helped
+to release this game for all us EB fanatics to play.  Concerning this
+FAQ, well, it's a Mini-FAQ.  I'm not going to get all the monster's
+stats or anything like that because frankly, it's too time-consuming.
+If someone wants to contribute anything, they get props, of course, but
+this is just sort of like a quick help guide and not some definitive
+walkthrough.
+
+You need to have a NES emulator (such as Nesticle), to play this game as
+well as the ROM file itself.  You can get the ROM at Neo Demiforce
+(http://shell.cdc.net/~loiosh/demi/) and Nesticle at Zophar's Domain
+(http://zophar.malicia.com) under the NES Emulator section.  If you have
+a FAQ question, ask away, but don't ask me to send you the EBZ file or
+anything like that because I won't.
+
+This FAQ has spoilers (there's no way around it), so read at your own
+risk.
+
+
+=========================================================================
+ABOUT THE GAME
+=========================================================================
+
+ BASIC CONTROLS  ________________________________________________________
+
+ Directional Pad - Move in 8 directions.
+ A Button        - Opens Command Window, accepts decisions.
+ B Button        - Closes windows, declines decisions.
+ Hold B, D-Pad   - Run in 8 directions
+ Start Button    - Opens Map (not usable in all areas)
+ Select Button   - Opens State Window.
+
+ COMMAND WINDOW  ________________________________________________________
+
+ Talk  - Chat with people, animals, garbage cans, etc.
+ Check - Use to examine objects.
+ Goods - Opens Goods Window.
+ State - Opens State Window.
+ PSI   - Opens PSI Window.
+ Setup - Opens Setup Window.
+
+ GOODS WINDOW  __________________________________________________________
+
+ All items you've accquired are listed here.  Each character can
+ carry eight items apiece.  While in this window, you have the
+ following options:
+
+ Use  - Use an item.
+ Eat  - Eat a food item.
+ Give - Give an item to another friend.
+ Drop - Toss away an item you don't want.  Not all items can be
+        dropped.
+ Look - Examine an item in your inventory.
+
+ STATE WINDOW  __________________________________________________________
+
+ This window shows your current statistics, as well as your amount
+ of HP and PP.  You can press A to cycle through the characters.  If
+ your character knows any Psychic Powers, press Left to highlight
+ the PSI window, then press A, Left, or Down to cycle through your
+ known Psychic Powers.
+
+ PSI WINDOW  ____________________________________________________________
+
+ This window lists all Psychic Powers you can use outside of battle.
+ You can use a PP by selecting it with A and choosing which character
+ to use the Power on.
+
+ SETUP WINDOW  __________________________________________________________
+
+ You can remap the button commands in this screen, as well as choose
+ the speed of messages.  1 is the slowest speed, 5 is the fastest.
+
+ WHILE IN BATTLE  _______________________________________________________
+
+ During a battle, you have the following options:
+
+ Fight - Select an enemy to attack with your currently equipped weapon.
+ PSI   - Use a Psychic Power in battle.
+ Goods - Use an item in battle.
+ Check - Examine your enemy.  This may tell you their offensive and
+         defensive power, as well as any Psychic Powers they may have
+         or be immune to, not to mention any items they might use
+         against you.
+ Auto  - This causes your characters to be controlled by the CPU.  You
+         can end Auto Battle at any time by pressing the B button.  A
+         little advice--the computer is dumb  ^^;  You can die really
+         easily in Auto Battle mode.
+ Guard - Your character will take no action and defend, reducing any
+         damage taken by about half.
+ Run   - Your character will attempt to run away.  You cannot run away
+         from boss battles.
+
+
+ SOME ADVICE  ___________________________________________________________
+
+  - You can save your game by calling your Dad, either using a phone in
+    a healer's house or your home, or by using a pay phone.  It costs
+    one dollar to use a pay phone.  If you have a Phone Card (refer to
+    the walkthrough), you can use a pay phone even when you're broke,
+    and the amount will be deducted from your bank account.  Note that
+    your dad will sometimes contact you in the middle of the game and
+    offer to save your game for you.
+
+  - If you have more items than space, you can always store them in your
+    closet at home.  Talk to Minnie at your house and she'll hold onto
+    any items you want.  To get them back, just ask her to give you back
+    an item.
+
+  - If you die and continue, you lose half the money you were currently
+    carrying on you.
+
+
+=========================================================================
+BASIC WALKTHROUGH
+=========================================================================
+
+ - Once the game begins, attack the lamp when it comes after you.
+
+ - Then go into your sister's room and attack the doll.  Examine it
+   afterwards to hear one of the eight songs you'll need to memorize
+   later.
+
+ - Talk to your mother, then to your father.  Go outside and check your
+   dog to get the Basement Key.  Get the items from the basement.
+
+ - Now spend some time building up levels, preferrably until you reach
+   Level 3.  Go to Podunk and buy the Canary Chick from the department
+   store.  Also, look for the man giving a survey--you can get a Phone
+   Card from him.
+
+ - Head northwest to the Canary Village.  There's a hole in the wall
+   behind the gray statue, so go behind it and use the chick on the
+   talking canary, Laura.  She'll sing another melody to you.  Now
+   return to town and and talk to the Mayor.  Agree to help him.
+
+ - Make your way to the south of town, and watch out for people who are
+   really Pseudo Zombies.  At the graveyard, look for an open crypt (it's
+   east of the church).  In the adjoining room at the bottom, open the
+   coffin on the far left to find Pippi.
+
+ - Return with Pippi to the town.  If she faints, you'll have to revive
+   her in the hospital.  Then go talk to the Mayor, get the Zoo Key from
+   Abbot, and head back to your house.
+
+ - Along the way, pick up the Franklin Badge from Pippi.  Save your game
+   and return to town.  Look for the path that leads north to the Zoo.
+
+ - After the Singing Monkey steals your key at the Zoo gates, go inside.
+   Head east until you reach the Superindent's building.  Go inside and
+   get all the goods.
+
+ - On the top floor, enter the right-hand door first and get the Life Up
+   Cream.  Then go into the left door and examine the capsule.
+
+ - Starman Jr. will appear.  This battle is easier than it looks, esp. if
+   you have the Franklin Badge, which reflects Gamma Beams.
+
+ - Once Starman leaves, you may want to go and heal up back in the town.
+   Don't forget to get another song from the Singing Monkey at the Zoo,
+   though.  Return to the upper bridge where the guards are (northeast
+   of the Zoo), and they'll let you past.
+
+ - In the cave, examine the stone and then use 'Telepathy'.  You'll be
+   warped to the land of dreams, Magicant.
+
+ - One man here will give you an Ocarina, and another one will give you
+   a Big Bag (full of Magic Herbs) if you let him borrow your Cash Card
+   for a while.
+
+ - You can withdraw (but not deposit) money by going to Mary's Fountain
+   and using Telepathy, if you need some extra dough.
+
+ - Leave the town and head northeast.  To answer the man who tells
+   riddles, use 'Telepathy' after he finishes talking.  In Mary's
+   castle, talk to everyone.  One room has six chests--open one and the
+   rest close.  I suggest getting the Boomerang.
+
+ - When you're done here, leave and look for the Flying Men's home.  You
+   can have one of these guys accompany you and fight for you, but if
+   they die, you'll have to go get another one.  There's a limited number
+   of Flying Men, so don't waste 'em.  If you want to build up EXP fast,
+   look for the Grouchos and wait for them to leave.  They'll usually
+   give one character lots of EXP whereas if you beat them, you only get
+   a few measly points.
+
+ - Go to the Fountain.  Heed the advice of the men there and return to
+   the town, then go east.  There are a bunch of wells here.  From the
+   well across the bridge, go south and step on the well slightly to
+   the left of the first well you come across.
+
+ - It leads into a dungeon, which is actually quite short.  Keep trying
+   the different holes and ladders until you reach the bottom floor.
+   You can't do anything to the Dragon right now, but don't miss the
+   hole that leads to the room with the Onyx Hook.
+
+ - Take it and go find the Forgotten Man (northeast of the hole).  Tell
+   him that you'll ignore him, and he disappears.  Step through the
+   door behind him and you'll appear in a new cave.  Leave, and you'll
+   be outside.  The Onyx Hook is a very valuable item.  It works at
+   any time, so if you are in a dungeon with little goods or PP left
+   and no way to get out, you might as well use the Hook to return to
+   Magicant (getting to the well dungeon and getting through it becomes
+   easier as you keep playing, so it's not like it takes a long time to
+   return to the real world).
+
+ - Go north until you find a path that leads down to the ground.  Then
+   keep going north to arrive at Merryville.
+
+ - The Twinkle School is nearby.  Talk to the janitor and he'll open the
+   door on the top floor.  Examine the garbage can to find your second
+   friend.
+
+ - Leave and go south to the Little-Sweet Factory.  Look for a ladder
+   that leads up; it'll set you on the right path.  The Bottle Rocket
+   you need is in a garbage can.
+
+ - Once you have the rocket, return to your pal and he'll join you.
+   After he destroys the lab by accident, you should get him some
+   weapons and armor (a Boomerang from this town, and if you have
+   the money, a Magic Coin and Gold Ring from Magicant).  You'll want
+   to raise him _lots_ of levels, up to at least 12 or higher.  When
+   you're ready, walk to the north and head west of the train tracks,
+   then north again.  You'll find a Pass on the ground.  Keep going and
+   you'll arrive at Duncan Factory.
+
+ - Show the dog your Pass, then defeat it.  Inside the factory, you
+   need to make your way to the upper-left corner of the building.
+   You'll know when you're on the right track when you reach a long
+   hall that goes far to the left, then diagonally down for some
+   distance.  Launch the rocket in the bay, then leave.
+
+ - You can now go past the boulders to the Union Station.  From here,
+   there are a lot of places to go to--what I'm listing is what I did.
+
+ - Go to Reindeer.  A woman there will give you the girl's hat.  Several
+   people in this town have the flu, so be careful who you talk to.
+   One man will also give you lots of money--but I don't know what
+   happens if you hold onto it.  Don't forget to buy the Plasma Beam
+   from the top floor of the department store--it's the best weapon you
+   can give to your friend.  Although it breaks after only a few uses,
+   you should keep one handy in case you get into a sticky situation.
+
+ - Go to Snowman.  Note that if you visit the Healer's house, the main
+   character's Dad will want to know your (yes, _your_) name.  Visit
+   the Snowman Chateau and show the girl the hat, and she'll join you.
+   You should raise her level to at least 10.  This is very easy
+   considering that you can sleep for free at the Chateau.  At this
+   point, I suggest using the Onyx Hook to return to Magicant, so you
+   can get that Magic Ribbon for her from the ground-swimming cat, as
+   well as some Magic Coins and Gold Rings for anyone who still doesn't
+   have them.  As for weapons, don't get her a Frying Pan from Snowman,
+   get her a Boomerang from Merryville.
+
+ - Now return to the Union Station and go to Spookane.  This town is
+   filled with monsters.  Feel free to stay at the hotel if you want,
+   but you'll be attacked by a Starman the day after.  In the actual
+   town (where everyone lives outdoors), one woman will give you the
+   key to the Rosemary's house.  From the room with the mouse, take the
+   upper door, then keep taking the lower door.  This will eventually
+   lead you to the piano room.  Check out the piano to learn another one
+   of the melodies Queen Mary wanted you to find.
+
+ - Now leave the house and return to the Union Station.  Head east, and
+   go up into the cliffs to get around the broken bridge.  You'll end
+   up in the Yucca Desert.  Be sure to find the singing cactus (you can
+   tell which one it is because it has a face).  From the war survivor's
+   tent (see below), head west, then north.  Use 'Telepathy' on the
+   cactus and he'll sing one of the melodies you need.
+
+ - In the desert, you may run into a war survivor.  If you ride his plane
+   10 times (or since you have 3 people, 4 times), he'll let you ride his
+   tank (use the stubs on him).  However, you can't take it beyond the
+   desert.  There's some ruins in the desert to the east of the war guy's
+   tent--however, the ruins are guarded by a powerful robot.  To defeat
+   it, get in the tank and pilot it up into the area where the robot
+   appears.  He'll attack you, but the tank will reflect any damage
+   taken.  If you haven't already found the singing cactus, try riding
+   Flight Plan A to see where it is.
+
+ - After the robot is dead, you can explore the rest of the ruins (but
+   the tank will break).  A hole here leads down into an area where
+   many monkeys live.  At least one monkey gives you a Speed Capsule;
+   otherwise, you can get PSI Stones from the presents scattered
+   throughout the area.  On the bottommost floor is a pink structure.
+   If you use Telepathy, it will take you to Magicant.  Note that if
+   you leave Magicant via the well dungeon, you'll end up near
+   Youngtown instead of south from Merrysville.
+
+ - Make your way to Youngtown.  Here, look for the Garrickson's house
+   and use 'Telepathy' on the baby to learn Teleport.  Then head to the
+   east and go into the swamp area.
+
+ - Keep heading northeast.  After crossing a couple of bridges, you'll
+   reach a house.  Inside is Pippi, who will let you stay the night.
+   Since you can sleep here for free, you might as well bash some
+   monsters and raise some levels.  In the trashcan outside the house
+   is the weakling's father, who will check to make sure that you've
+   registered your real name.
+
+ - When you're ready to move on, keep heading southwest.  Tougher
+   monsters, like Crocodiles and Mooks will show up, so be careful.
+   After a while, you'll be able to head due east, so keep doing that
+   until you arrive at the forest.  Go north from here and make your
+   way to Ellay.
+
+ - Be careful who you talk to in Ellay (get it?  L.A.?  Anyway....),
+   because some of them are Bla-Bla Gang members and will attack you.
+   Look around town if you want, then head to the northwest to the
+   Look-Out Tower.  Go to the top floor and examine the far left
+   telescope to make a rocket land.  You can take it to a small island.
+   On the island, you can trade Strawberry Tofu with the three
+   inhabitants to get the Words O' Love (from the scientist), the
+   Swear Words (from Able), or some information about a robot in Mt.
+   Itoi (from Baker).  If you don't have any berry tofu, you can buy
+   it in Reindeer for $975 per piece.
+
+ - Now, go to the building where the Live Show is at.  Since you need
+   a ticket, buy one in the Department Store for $350 (there's a man
+   outside the show building who is selling his for $1200, so ignore
+   him).  Once inside, tell the man you want to dance.  When you're
+   done, your fourth friend shows up.  If you tell him you beat up his
+   gang, he'll fight you, but call it quits after a few rounds.  He'll
+   kick out your friend (the guy who everyone thinks is a weakling),
+   and join the party.  Don't bother buying armor from Magicant for
+   this guy as he's already plenty powerful.  BTW, remember the cop who
+   says he can hook you up with weapons?  If you buy a drink from the
+   girl in the Live Show, you'll get arrested, and your main character's
+   item will be confiscated.  You'll have to buy it back if you want it
+   (in another words, his 'powerful weapon' is just whatever gets
+   confiscated).
+
+ - With him in your party, head east, then south, go across the river,
+   and keep going east.  There's a house in a clearing where you can heal
+   up.  North of that is a cavern.  The cavern maze in itself is not very
+   tricky; just remember what door leads where and you can find the exit
+   fairly soon.  Don't forget to get Hank's Bat for your main character,
+   the Iron Skillet for your girlfriend, and the Katana for the new guy,
+   as you explore the maze.
+
+ - Outside, make your way to the northeast.  You can climb up the long
+   ropes hanging from the tree stumps.  There's a boat to the north that
+   you can't use, so look for a healer's house instead.  He can heal
+   and revive anyone.  After saving your game, you can dance with your
+   girlfriend in the other room.  You'll be attacked by a robot that
+   you can't defeat afterward.  When you come to, talk to your pal.
+   He's too injured to keep fighting (maybe he's dead?), so your buddy
+   who got kicked out will join instead.
+
+   NOTE: At some point you need to return to Magicant and kill the
+   dragon in the well dungeon who's sleeping (remember him?)  I don't
+   know when you can do this (I didn't do it until later), but I think
+   that around now, you're powerful enough to wake him up.
+
+ - Go back through the cave and return to the healer's house to rest up,
+   then go north to where the broken boat was.  Your friend can fix it
+   up and make it usable.  Find the whirlpool in the middle of the ocean,
+   and pilot it inside.
+
+ - Inside the submarine, take the elevator down and head all the way to
+   the left.  Climb up the ladder you find and check the robot.  It will
+   awaken, then the submarine will explode.
+
+ - Back on land, you need to head northeast.  Note that you cannot use
+   the Onyx Hook while Eve is in your party.  However, she will attack
+   first every round and do in excess of 900 points of damage, so feel
+   free to take some time to raise levels.  In any case, shortly after
+   finding the Sea Pendant, you'll be attacked by a robot that will
+   destroy Eve.  Check Eve's body to hear another one of the eight
+   songs, then keep heading north.  There's a gravestone here that will
+   teach you the final song.
+
+ - Beyond it is a blocked cave.  At this point, I returned to Magicant
+   to fight the dragon.  I honestly don't know if I could have fought
+   it at an earlier point.  Anyway, use the Onyx Hook to return to
+   Magicant.  Leave via the well dungeon, but on your way out, stop and
+   check the dragon.  It will wake up and attack you.  Use PSI Block and
+   the dragon will be hecka easy to kill.  When it's dead, talk to it to
+   get another musical note.
+
+ - You should now have all eight notes.  Return to Magicant (you can use
+   the Onyx Hook even in the well dungeon).  Remember the guitar player
+   who wanted you to come visit him?  When your Level is high enough,
+   he'll tell you his secret (which, BTW, is a reminder of where all the
+   melodies are if you missed one).  Yes, this does have to do with your
+   level (he kept telling me the same message, then my friend rose a
+   level and he changed it), which IMHO is a little stupid because you'll
+   have all the notes by then anyway....
+
+ - When you're ready to continue, go meet with Queen Mary.
+
+ - BEFORE you talk to her, keep in mind that if you do so, you can never
+   return to Magicant.
+
+ - She'll tell you about Giegue (I'll give you one guess who that is...
+   he may be more familiar to you SNES Earthbound players as Giygas).
+   Then, you'll be warped back to the gravestone south of the blocked
+   cave.  Go north and you'll find that you can now get inside.
+
+ - In one of the side passages is a room full of people, all of whom
+   were kidnapped (including Erika's parents and the citizens of
+   Youngtown).  Talk to them, then leave and continue north.  Go through
+   the cave at the north end of the path, and you'll find the Mother
+   Ship waiting for you, as well as Giegue.
+
+ - I highly recommend that your main character knows LifeUp Beta, and
+   your girlfriend knows LifeUp Pi.  It'll really help.  Your characters
+   should keep guarding and healing themselves until Giegue finishes
+   his monologue.  Then, start singing.  You'll need to sing lots of
+   times (eight, maybe nine times), so make sure that you keep your life
+   up.  Having some extra LifeUp Creams and PSI Stones on hand will help
+   if your PP levels begin to drop too low.
+
+
+=========================================================================
+CHEATS AND TRICKS
+=========================================================================
+
+-------------------------------------------------------------------------
+MONEY GLITCH
+-------------------------------------------------------------------------
+
+Well, apparently this isn't really a glitch.  According to Zach Bertram,
+whatever money you get from killing monsters already appears on your
+card (i.e, you don't need to talk to your Dad to get it, you can just
+take it from an ATM).  So if you spend a bunch of money, _then_ call
+your Dad, he tells you how much you earned, but the amount of money
+is actually whatever you had already spent.  It looks weird, but it
+actually makes sense (I guess).
+
+
+-------------------------------------------------------------------------
+HELP AVOID ATTACKS
+-------------------------------------------------------------------------
+
+Every time you leave a battle, a certain amount of steps is chosen by
+the computer.  After you walk so many steps, you'll be attacked again.
+However, if you open up your menu window, the number of steps is
+re-determined.  This is great for us emulator users, as you can just
+save your state, take a couple of steps, and if you get attacked, reload
+your state, open your menu, and try again to see if you can go further
+without getting attacked.  Although useful, remember that if you don't
+fight monsters, you won't earn money or be able to level-up.
+
+
+-------------------------------------------------------------------------
+GET THE MOST OUT OF RAISING LEVELS
+-------------------------------------------------------------------------
+
+Every time you see the message '(somebody) has raised a level', save your
+state.  This is because the stats. that are raised are chosen at random
+each time, so if you only get minor increases in your scores, then just
+reload your state and see if you get something better the next time
+around.  You can also try to 'force' a new skill by reloading your state
+repeatedly until your character earns a Psychic Power.
+
+
+=========================================================================
+PSYCHIC POWER CHART
+=========================================================================
+
+Psychic Powers are learned through fighting.  While you learn the
+majority of them through level-up, you can also earn them simply by going
+into a battle, even if you run away from the battle.
+
+MAIN CHARACTER
+
+NAME            COST    DESCRIPTION
+-------------------------------------------------------------------------
+Telepathy        1      Use to talk to certain people/things.
+Teleport         3      Return to any town you've ever been to.
+LifeUp a         3      Restores around 30 lost HPs to one character.
+LifeUp b         5      Restores around 70 lost HPs to one character.
+LifeUp r         9      Restores all missing HPs to one character.
+LifeUp pi        17     Restores around 60 lost HPs to all characters.
+Healing a        3      Heals certain status ailments.
+Healing b        6      Heals certain status ailments.
+Healing r        6      A stoned character is softened.
+Healing pi       6      Heals certain status ailments.
+SuprHealing      36     One fainted character is awakened with full HP.
+PSI Shield a     4      One ally takes less damage from PK attacks.
+PSI Shield b     9      All allies take less damage from PK attacks.
+PowerShield      9      Physical damage taken is reflected on one foe.
+OffenseUp        6      Increase one character's attack power.
+DefenseUp a      3      Increase one character's defensive power.
+DefenseUp b      8      Increase all character's defensive power.
+QuickUp          3      Increase one character's speed.
+Def.Down a       3      Decrease one enemy's defensive power.
+Def.Down b       9      Decreases all enemies' defensive power.
+4th-D. Slip      16     Escape from any non-boss battle.
+Hypnosis         5      One enemy is put to sleep.
+                 
+THE GIRL FROM SNOWMAN
+
+Telepathy        1      Use to talk to certain people/things.
+Teleport         3      Return to any town you've ever been to.
+LifeUp b         5      Restores around 70 lost HPs to one character.
+LifeUp r         9      Restores all missing HPs to one character.
+LifeUp pi        17     Restores around 60 lost HPs to all characters.
+LifeUp o         ??     Restors all lost HP to all characters.
+Healing a        3      Heals certain status ailments.
+Healing b        6      Heals certain status ailments.
+Healing r        6      A stoned character is softened.
+Healing pi       6      Heals certain status ailments.
+SuprHealing      36     One fainted character is awakened with full HP.
+PSIShield a      4      One ally takes less damage from PK attacks.
+PSIShield b      9      All allies take less damage from PK attacks.
+Power Shield     9      Reflect any physical damage back onto your foe.
+BrainShock       5      One enemy is confused and may attack itself.
+BrainCyclone     12     All enemies are confused a la BrainShock.
+Hypnosis         5      One enemy is put to sleep.
+Paralysis        8      One enemy cannot move.
+Darkness         10     One enemy is blinded and it's attacks may miss.
+PSI-Magnet       0      Drains PPs from a foe and gives them to you.
+Shield-Off       8      Erases a PSIShield, if your enemy is using one.
+PSI-Block        5      Prevents one enemy from using any Psychic Powers.
+PK Freeze a      3      Causes minor ice damage to one enemy.
+PK Freeze b      5      Causes major ice damage to one enemy.
+PK Freeze r      8      One enemy is reduced to 1 HP (critical).
+PK Freeze o      13     All enemies take major ice damage.
+PK Fire a        8      All enemies take minor fire damage.
+PK Fire b        12     All enemies take major fire damage.
+PK Fire r        ??     All enemies take extreme fire damage.
+PK Fire o        ??     All enemies take massive amounts of fire damage.
+PK Beam a        4      One enemy takes minor defenseless damage.
+PK Beam b        7      One enemy takes major defenseless damage.
+PK Beam r        12     One enemy is killed outright. *
+PK Beam o        ??     All enemies take major defenseless damage.
+PK Thunder a     3      One enemy takes minor lightning damage.
+PK Thunder b     6      One enemy takes major lightning damage.
+PK Thunder r     12     All enemies take major lightning damage.
+
+ * The Franklin Badge can deflect this attack.
+
+BTW, here's what those letters mean:
+
+ a  = Alpha
+ b  = Beta
+ r  = Gamma
+ pi = Pi
+ o  = Omega
+
+I'll add more Psychic Powers as my characters learn them.
+
+
+=========================================================================
+SHOPPING CHART
+=========================================================================
+
+PODUNK  _________________________________________________________________
+
+ Antidote           $   20
+ Asthma Spray          148
+ LifeUp Cream          194
+ Insecticide           300
+ Plastic Bat            80
+ Slingshot             120
+ Wooden Bat            500
+ Orange Juice            5
+ Bread                  30
+ Sports Drink           75
+
+MAGICANT  _______________________________________________________________
+
+ (Three stores)
+
+ Magic Herb         $   30
+ Peace Coin            260
+ Protect Coin          648
+ Magic Coin           1200
+
+ Magic Herb         $   30
+ Brass Ring            460
+ Silver Ring           825
+ Gold Ring            1510
+
+ Repel Ring         $  160
+ H2o Pendant           700
+ Fire Pendant          700
+ Earth Pendant         700
+
+MERRYSVILLE  ____________________________________________________________
+
+ Antidote           $   20
+ Asthma Spray          148
+ LifeUp Cream          194
+ Insecticide           300
+ Wooden Bat            500 
+ Aluminum Bat         1000
+ Boomerang            1100
+ Orange Juice            5
+ Bread                  30
+ Sports Drink           75
+ Ruler                  22
+ Stun Gun              300
+ Rope                  600
+ Repel Ring            160
+
+REINDEER  _______________________________________________________________
+
+ Antidote           $   20
+ Asthma Spray          148
+ LifeUp Cream          194
+ Aluminum Bat         1000
+ Boomerang            1100
+ Orange Juice            5
+ Bread                  30
+ Sports Drink           75
+ Berry Tofu            975
+ Bomb                  280
+ Laser Beam            760
+ Plasma Beam          1300
+
+SNOWMAN  ________________________________________________________________
+
+ (House near the Jack Hotel)
+
+ Bread              $   30
+ Mouthwash             175
+ LifeUp Cream          194
+ Frying Pan            300
+
+YOUNGTOWN  ______________________________________________________________
+
+ (House near the Jack Hotel)
+
+ Bread              $   30
+ LifeUp Cream          194
+ Nonstick Pan          700
+ Air Gun              1400
+
+ELLAY  __________________________________________________________________
+
+ (Burger Joint)
+
+ Orange Juice       $    5
+ French Fries           15
+ Hamburger              25
+
+ (Department Store)
+
+ Antidote           $   20
+ Asthma Spray          148
+ LifeUp Cream          194
+ Orange Juice            5
+ Bread                  30
+ Sports Drink           75
+ Ticket                350 
+ Butter Knife          580
+ Rope                  600
+ Survival Knife       1200
+
+
+=========================================================================
+MISCELLANEOUS
+=========================================================================
+
+Revision History  _______________________________________________________
+
+ Version 0.6  (July 28, 1998)
+  - Just a note that I lost all my EB save files :(  So I don't really
+    know if this guide will be updated any more, or at least, it won't
+    be until I play through the game again.
+
+ Version 0.5  (June 24, 1998)
+  - Some PSI information and other stuff.  I'll finish up the PK list
+    by the next update, so don't worry about the ??'s for now.
+
+ Version 0.4  (June 8, 1998)
+  - More corrections and additions.
+
+ Version 0.3  (May 12, 1998)
+  - Added more general information.
+
+ Version 0.2  (May 8, 1998)
+  - Finished the walkthrough and added several lists.
+
+ Version 0.1  (April 30, 1998)
+  - Basic walkthrough.
+
+
+Special Thanks  _________________________________________________________
+
+ Paul (kratkev0@naspa.net)
+  - Information on the Ocarina.
+
+ Don Harlow (don@donh.vip.best.net)
+  - For the extra PSI information.
+
+ Cranium X (craniumx@citynet.net)
+  - For the location of the Air Gun and for telling me how to withdraw
+    money while in Magicant.
+
+ Jee Shin (gslice@sixtyfour.com)
+  - For PSI Healing info.
+
+ Toni Lahti (lahtii@sci.fi)
+  - For telling me about how to kill the robot in the Yucca Desert.
+
+ Micheal Andra (wizOwor@rdr.net)
+  - For information on leaving Magicant via the monkey temple.
+
+ Zach Bertram (grolyhail@hotmail.com)
+  - Corrected me on the money glitch.
+
+ Jim Gilsinan IV (gilsinan@fas.harvard.edu)
+  - Corrected me on the 'help avoid attacks' trick.
+
+
+Questions  ______________________________________________________________
+
+ - There's a store in Magicant that needs the Ocarina.  You can get it
+   from a man also in Magicant.  Can you give it to the shopkeeper
+   somehow?
+ - Has anyone found the single mine that the war survivor buried in the
+   Yucca Desert?  What's the point of finding it?
+
+ Unpublished work Copyright 1998 Kao Megura
+
